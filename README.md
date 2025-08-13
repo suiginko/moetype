@@ -4,7 +4,7 @@
 词条来源于https://github.com/outloudvi/mw2fcitx
 以及手动添加。
 
-用于便利地输入动漫角色名字和等词汇
+用于便利地输入动漫角色名和声优名等词汇
 
 <img width="424" height="212" alt="image" src="https://github.com/user-attachments/assets/84c59dd3-fe2f-41bb-81ac-57998a51da90" />
 
