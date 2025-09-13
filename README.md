@@ -9,7 +9,7 @@
 <img width="424" height="212" alt="image" src="https://github.com/user-attachments/assets/84c59dd3-fe2f-41bb-81ac-57998a51da90" />
 
 ### 如何使用
-按需下载适合的版本，将其挂载到一个Rime输入方案中
+在Release中按需下载适合的版本，将其挂载到一个Rime输入方案中
 
 推荐使用万象拼音方案https://github.com/amzxyz/rime_wanxiang
 
