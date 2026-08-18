@@ -13990,7 +13990,7 @@ version: "0.3.6"
 卞玥	biàn yuè	100
 卞云鹏	biàn yún péng	100
 弁弁	biàn biàn	100
-弁才天	biàn cái tiān	jú gěng
+弁才天	biàn cái tiān	100
 弁财天	biàn cái tiān	100
 弁财天沙罗	biàn cái tiān shā luó	100
 弁庆	biàn qìng	100
@@ -28409,8 +28409,8 @@ version: "0.3.6"
 单手捏杯子	dān shǒu niē bēi zi	100
 单首龙	dān shǒu lóng	100
 单挑	dān tiāo	100
-单廷圭	dān tíng guī	100
-单廷珪	dān tíng guī	100
+单廷圭	shàn tíng guī	100
+单廷珪	shàn tíng guī	100
 单推	dān tuī	100
 单推人	dān tuī rén	100
 单腿裤	dān tuǐ kù	100
@@ -81871,9 +81871,9 @@ version: "0.3.6"
 乐观的心态	lè guān de xīn tài	100
 乐观谎者	lè guān huǎng zhě	100
 乐观主义	lè guān zhǔ yì	100
-乐和	lè he	100
+乐和	yuè he	100
 乐祭	yuè jì	100
-乐进	lè jìn	100
+乐进	yuè jìn	100
 乐境虏逋	lè jìng lǔ bū	100
 乐就	lè jiù	100
 乐可	lè kě	100
@@ -183599,6 +183599,7 @@ version: "0.3.6"
 幽影	yōu yǐng	100
 幽影树	yōu yǐng shù	100
 幽幽	yōu yōu	100
+又有个	yòu yǒu gè	200
 幽幽歌	yōu yōu gē	100
 幽幽节拍	yōu yōu jié pāi	100
 幽幽球儿	yōu yōu qiú ér	100
@@ -195197,10 +195198,10 @@ version: "0.3.6"
 征士	zhēng shì	100
 征氏姐妹	zhēng shì jiě mèi	100
 征谣	zhēng yáo	100
-征羽莫蒽	zhēng yǔ mò ēn	100
-征羽莫落	zhēng yǔ mò luò	100
-征羽沐可	zhēng yǔ mù kě	100
-征羽泽	zhēng yǔ zé	100
+徵羽莫蒽	zhǐ yǔ mò ēn	100
+徵羽莫落	zhǐ yǔ mò luò	100
+徵羽沐可	zhǐ yǔ mù kě	100
+徵羽泽	zhǐ yǔ zé	100
 征战者	zhēng zhàn zhě	100
 征召兵	zhēng zhào bīng	100
 征宗	zhēng zōng	100
@@ -196522,8 +196523,9 @@ version: "0.3.6"
 咫尺遥心	zhǐ chǐ yáo xīn	100
 紙飛行機	zhǐ fēi xíng jī	100
 趾尖的宇宙	zhǐ jiān de yǔ zhòu	100
-徵羽艾黎	zhēng yǔ ài lí	100
+徵羽艾黎	zhǐ yǔ ài lí	100
 徵羽摩柯	zhǐ yǔ mó kē	100
+徵羽	zhǐ yǔ	100
 至爱梵高	zhì ài fàn gāo	100
 至爱梵高·星空之谜	zhì ài fàn gāo xīng kōng zhī mí	100
 至白之日	zhì bái zhī rì	100
@@ -198583,11 +198585,14 @@ version: "0.3.6"
 重音	zhòng yīn	100
 重音缇特	zhòng yīn tí tè	100
 重音小乖	zhòng yīn xiǎo guāi	100
-重樱	zhòng yīng	100
-重樱舰船专属兵装	zhòng yīng jiàn chuán zhuān shǔ bīng zhuāng	100
-重樱阵营货物装备	zhòng yīng zhèn yíng huò wù zhuāng bèi	100
-重樱阵营设备装备	zhòng yīng zhèn yíng shè bèi zhuāng bèi	100
-重渊	zhòng yuān	100
+重音	chóng yīn	100
+重音缇特	chóng yīn tí tè	100
+重音小乖	chóng yīn xiǎo guāi	100
+重樱	chóng yīng	100
+重樱舰船专属兵装	chóng yīng jiàn chuán zhuān shǔ bīng zhuāng	100
+重樱阵营货物装备	chóng yīng zhèn yíng huò wù zhuāng bèi	100
+重樱阵营设备装备	chóng yīng zhèn yíng shè bèi zhuāng bèi	100
+重渊	chóng yuān	100
 重原克也	zhòng yuán kè yě	100
 重岳	chóng yuè	100
 重云	chóng yún	100
@@ -203342,7 +203347,7 @@ version: "0.3.6"
 米娅莫拉苏娜丹妮谢莉红	mǐ yà mò lā sū nà dān nī xiè lì hóng	100
 公主米娅莫拉苏娜丹妮谢莉红	gōng zhǔ mǐ yà mò lā sū nà dān nī xiè lì hóng	100
 璃莹殇·安洁莉娜血丽魑·安塔利亚·凡多姆海威恩·弗朗西斯科普雷斯顿·小小怪	lí yíng shāng ān jié lì nà xuè lì chī ān tǎ lì yà fán duō mǔ hǎi wēi ēn fú lǎng xī sī kē pǔ léi sī dùn xiǎo xiǎo guài	100
-爨酰瀓腌蟆犟丯耦栞牞麤大大怪	cuàn xiān chéng yān má jiàng jiè ǒu kān jiū cū dà dà guài	100
+爨酰·瀓腌蟆犟·丯耦栞牞麤·大大怪	cuàn xiān chéng yān má jiàng jiè ǒu kān jiū cū dà dà guài	100
 半世游	bàn shì yóu	100
 瓷意千年	cí yì qiān nián	100
 散修	sǎn xiū	100
@@ -203351,3 +203356,405 @@ version: "0.3.6"
 你圈	nǐ quān	100
 你圈真乱	nǐ quān zhēn luàn	100
 小绿书	xiǎo lǜ shū	100
+阿勃巴斯	ā bó bā sī	100
+阿尔德的异世界转生	ā ěr dé de yì shì jiè zhuǎn shēng	100
+阿莫尔	ā mò ěr	100
+阿普斯	ā pǔ sī	100
+阿维狄亚	ā wéi dí yà	100
+嗄井户高久	á jǐng hù gāo jiǔ	100
+艾因海雅八斗士	ài yīn hǎi yǎ bā dǒu shì	100
+爱丽亚丝	ài lì yà sī	100
+爱恋满溢	ài liàn mǎn yì	100
+爱情泡泡糖	ài qíng pào pào táng	100
+安全帽	ān quán mào	100
+安提哥努斯	ān tí gē nǔ sī	100
+傲慢宣言	ào màn xuān yán	100
+奥黛塔苏佩茜娃	ào dài tǎ sū pèi qiàn wá	100
+奥玛兹	ào mǎ zī	100
+奥茹	ào rú	100
+八仙	bā xiān	100
+巴尔坦星人	bā ěr tǎn xīng rén	100
+白骑士综合征	bái qí shì zōng hé zhēng	100
+白色正义神鹰女士	bái sè zhèng yì shén yīng nǚ shì	100
+白砂菓夏海	bái shā guǒ xià hǎi	100
+白银之城	bái yín zhī chéng	100
+拜奥雷特	bài ào léi tè	100
+伴生萌属性	bàn shēng méng shǔ xìng	100
+保住升汰	bǎo zhù shēng tài	100
+背包杰克	bēi bāo jié kè	100
+被遗忘的男人	bèi yí wàng de nán rén	100
+本多谅太	běn duō liàng tài	100
+变得软弱吧	biàn de ruǎn ruò ba	100
+变幻天女彩虹少女	biàn huàn tiān nǚ cǎi hóng shào nǚ	100
+表里不一的心情是全自动	biǎo lǐ bù yī de xīn qíng shì quán zì dòng	100
+别把夏天关掉	bié bǎ xià tiān guān diào	100
+并不完美的我	bìng bù wán měi de wǒ	100
+伯吉斯吸虫	bó jí sī xī chóng	100
+不安全出口	bù ān quán chū kǒu	100
+不擅交际的未亡人雪女与诅咒戒指	bú shàn jiāo jì de wèi wáng rén xuě nǚ yǔ zǔ zhòu jiè zhǐ	100
+不相狐禅	bù xiāng hú chán	100
+布里茨布洛茨	bù lǐ cí bù luò cí	100
+彩莲	cǎi lián	100
+彩特琳德	cǎi tè lín dé	100
+菜姬	cài jī	100
+苍摩	cāng mó	100
+草木青时	cǎo mù qīng shí	100
+超古代机器人的觉醒	chāo gǔ dài jī qì rén de jué xǐng	100
+超喜欢你一直到永远	chāo xǐ huān nǐ yì zhí dào yǒng yuǎn	100
+彻天	chè tiān	100
+沉沦者的黑流树海	chén lún zhě de hēi liú shù hǎi	100
+陈芸讲	chén yún jiǎng	100
+乘田莉子	chéng tián lì zǐ	100
+橙橘	chéng jú	100
+赤城绫音	chì chéng líng yīn	100
+炽愿吉星	chì yuàn jí xīng	100
+冲冲	chōng chōng	100
+憧憬乘上魔法	chōng jǐng chéng shàng mó fǎ	100
+吹向你的风	chuī xiàng nǐ de fēng	100
+达拉邦	dá lā bāng	100
+大波浪	dà bō làng	100
+大嶋日菜	dà dǎo rì cài	100
+大花丼	dà huā dǎn	100
+大乱斗卡比	dà luàn dòu kǎ bǐ	100
+戴西马星系人	dài xī mǎ xīng xì rén	100
+单手戴手套	dān shǒu dài shǒu tào	100
+单眼皮	dān yǎn pí	100
+道诡异仙	dào guǐ yì xiān	100
+迪特琳德茨威格特	dí tè lín dé cí wēi gé tè	100
+谛梵罗	dì fàn luó	100
+槙原爱	diān yuán ài	100
+电影侦探	diàn yǐng zhēn tàn	100
+东由乃	dōng yóu nǎi	100
+冬野樱子	dōng yě yīng zǐ	100
+斗美神阿芙洛狄特	dòu měi shén ā fú luò dí tè	100
+多边恋	duō biān liàn	100
+多古夫	duō gǔ fū	100
+多邻国	duō lín guó	100
+发尔顿	fā ěr dùn	100
+发生在近畿某处的那些事	fā shēng zài jìn jī mǒu chù de nà xiē shì	100
+方糖	fāng táng	100
+方舟	fāng zhōu	100
+飞碟卡比	fēi dié kǎ bǐ	100
+分叉眉	fēn chà méi	100
+风卷麻衣	fēng juǎn má yī	100
+风狮爷	fēng shī yé	100
+风之子	fēng zhī zǐ	100
+芙芙探	fú fú tàn	100
+改造神龙	gǎi zào shén lóng	100
+盖欧扎克	gài ōu zā kè	100
+盖亚连者	gài yà lián zhě	100
+冈崎依瑠花	gāng qí yī liú huā	100
+高町恭也	gāo tīng gōng yě	100
+高町美由希	gāo tīng měi yóu xī	100
+高町士郎	gāo tīng shì láng	100
+高町桃子	gāo tīng táo zǐ	100
+高木美佳	gāo mù měi jiā	100
+糕点面包烘焙师	gāo diǎn miàn bāo hōng bèi shī	100
+告别的任务	gào bié de rèn wu	100
+歌姬之梦	gē jī zhī mèng	100
+歌行国乐季	gē xíng guó yuè jì	100
+工藤文音	gōng téng wén yīn	100
+古奈菜子	gǔ nài cài zǐ	100
+谷内美香	gǔ nèi měi xiāng	100
+谷雨街后巷	gǔ yǔ jiē hòu xiàng	100
+关于我靠前世所学让底层职业的驯魔师大翻身这档事	guān yú wǒ kào qián shì suǒ xué ràng dǐ céng zhí yè de xùn mó shī dà fān shēn zhè dàng shì	100
+光的行宫	guāng de xíng gōng	100
+龟本妃那	guī běn fēi nà	100
+鬼事	guǐ shì	100
+贵呼	guì hū	100
+国际搜查官美花	guó jì sōu chá guān měi huā	100
+国见恭介	guó jiàn gōng jiè	100
+国见绘麻	guó jiàn huì má	100
+哈小浪一家	hā xiǎo làng yì jiā	100
+哈小浪之山海大王	hā xiǎo làng zhī shān hǎi dài wáng	100
+汉科	hàn kē	100
+和洋折衷	hé yáng zhé zhōng	100
+河野初雪	hé yě chū xuě	100
+黑色磁带	hēi sè cí dài	100
+虎鸫	hǔ dōng	100
+花风	huā fēng	100
+滑稽暗黑兔	huá jī àn hēi tù	100
+唤我无名	huàn wǒ wú míng	100
+皇甫规	huáng fǔ guī	100
+黄金旋律黑胶唱片	huáng jīn xuán lǜ hēi jiāo chàng piàn	100
+灰宫学姐可怕但又很可爱	huī gōng xué jiě kě pà dàn yòu hěn kě ài	100
+灰音	huī yīn	100
+基耶龙星兽	jī yē lóng xīng shòu	100
+记忆管理局	jì yì guǎn lǐ jú	100
+寂静的尽头	jì jìng de jìn tóu	100
+加库玛	jiā kù mǎ	100
+甲贺伊绪	jiǎ hè yī xù	100
+降谷萌路	jiàng gǔ méng lù	100
+交叉反击拳	jiāo chā fǎn jī quán	100
+交缠舞步	jiāo chán wǔ bù	100
+胶囊恋人	jiāo náng liàn rén	100
+角色人气投票	jué sè rén qì tóu piào	100
+洁清子	jié qīng zǐ	100
+井堤真琳	jǐng dī zhēn lín	100
+久保明优	jiǔ bǎo míng yōu	100
+久城麻衣	jiǔ chéng má yī	100
+久我山栞的死法手帐	jiǔ wǒ shān kān de sǐ fǎ shǒu zhàng	100
+久远澪	jiǔ yuǎn líng	100
+菊千始音	jú qiān shǐ yīn	100
+巨大机器人女英雄	jù dà jī qì rén nǚ yīng xióng	100
+巨大女英雄陷落	jù dà nǚ yīng xióng xiàn luò	100
+卷菱娜娜子	juǎn líng nà nà zǐ	100
+绝对王	jué duì wáng	100
+军服女干部莫尔迪娜	jūn fú nǚ gàn bù mò ěr dí nà	100
+卡德霍	kǎ dé huò	100
+卡赞	kǎ zàn	100
+康乃馨绽放之日	kāng nǎi xīn zhàn fàng zhī rì	100
+克拉蕾弗林特	kè lā lěi fú lín tè	100
+哭哭歌	kū kū gē	100
+莱布缇	lái bù tí	100
+濑川美沙	lài chuān měi shā	100
+狼尾发型	láng wěi fà xíng	100
+雷丘兰星人	léi qiū lán xīng rén	100
+雷伊洛斯	léi yī luò sī	100
+泪水干涸	lèi shuǐ gān hé	100
+泪之头冠	lèi zhī tóu guān	100
+李百灵	lǐ bǎi líng	100
+李芸朵	lǐ yún duǒ	100
+历代特殊武器	lì dài tè shū wǔ qì	100
+立特玛鲁斯	lì tè mǎ lǔ sī	100
+莉谱	lì pǔ	100
+栗原学	lì yuán xué	100
+恋爱音游痴	liàn ài yīn yóu chī	100
+恋花恋慕	liàn huā liàn mù	100
+恋来爱至	liàn lái ài zhì	100
+林沛笭	lín pèi líng	100
+林清如	lín qīng rú	100
+林悠怡	lín yōu yí	100
+铃木彩	líng mù cǎi	100
+领主召临器	lǐng zhǔ zhào lín qì	100
+流星般的恋爱	liú xīng bān de liàn ài	100
+琉璃祭	liú lí jì	100
+硫酸怪人托凯尔	liú suān guài rén tuō kǎi ěr	100
+龙骑士的宠儿	lóng qí shì de chǒng ér	100
+陆康	lù kāng	100
+陆昙	lù tán	100
+陆文漪	lù wén yī	100
+露娜库丽亚	lù nà kù lì yà	100
+露西栉名田	lù xī zhì míng tián	100
+罗永线	luó yǒng xiàn	100
+洛尔斯诺德罗普	luò ěr sī nuò dé luó pǔ	100
+麻生桐李	má shēng tóng lǐ	100
+马尔库特	mǎ ěr kù tè	100
+玛格丽塔	mǎ gé lì tǎ	100
+玛格尼亚	mǎ gé ní yà	100
+漫画猫	màn huà māo	100
+猫冢诗乃	māo zhǒng shī nǎi	100
+毛绒派对幻	máo róng pài duì huàn	100
+茂木一叶	mào mù yí yè	100
+梅塔莫尔加	méi tǎ mò ěr jiā	100
+梅珠朗	méi zhū lǎng	100
+美洛迪亚	měi luò dí yà	100
+萌芽之歌	méng yá zhī gē	100
+蒙德拉	méng dé lā	100
+盟军大纛	méng jūn dà dào	100
+梦见你	mèng jiàn nǐ	100
+梦色奇迹	mèng sè qí jī	100
+梦山白藏主	mèng shān bái cáng zhǔ	100
+迷宫狂走曲	mí gōng kuáng zǒu qǔ	100
+秘密的梦之圆舞曲	mì mì de mèng zhī yuán wǔ qǔ	100
+鸣潮联动	míng cháo lián dòng	100
+冥色的隶姬	míng sè de lì jī	100
+魔法宝石	mó fǎ bǎo shí	100
+魔法露露	mó fǎ lù lù	100
+魔法少女的魔女审判完整原声带	mó fǎ shào nǚ de mó nǚ shěn pàn wán zhěng yuán shēng dài	100
+魔梦穿越记	mó mèng chuān yuè jì	100
+魔讨战队传奇五人组	mó tǎo zhàn duì chuán qí wǔ rén zǔ	100
+莫拉特王	mò lā tè wáng	100
+莫斯阿甲	mò sī ā jiǎ	100
+木村拓	mù cūn tuò	100
+木下锹形丸	mù xià qiāo xíng wán	100
+那坦星人	nà tǎn xīng rén	100
+奈绪崎浅葱	nài xù qí qiǎn cōng	100
+奈知	nài zhī	100
+南波遥海	nán bō yáo hǎi	100
+楠木同学高中出道失败了	nán mù tóng xué gāo zhōng chū dào shī bài le	100
+你好不容易才靠近我	nǐ hǎo bù róng yì cái kào jìn wǒ	100
+女装男生想脱下裙子	nǚ zhuāng nán shēng xiǎng tuō xià qún zi	100
+欧酱	ōu jiàng	100
+鸥麦麦麦	ōu mài mài mài	100
+帕拉朵珂丝	pà lā duǒ kē sī	100
+帕西加图索	pà xī jiā tú suǒ	100
+佩尔佩托亚	pèi ěr pèi tuō yà	100
+佩罗索	pèi luó suǒ	100
+贫乳御姐	pín rǔ yù jiě	100
+普蕾茜亚泰斯特罗莎	pǔ lěi qiàn yà tài sī tè luó shā	100
+七狐	qī hú	100
+齐杰拉	qí jié lā	100
+骑士背影	qí shì bèi yǐng	100
+琪露诺的完美算术学园	qí lù nuò de wán měi suàn shù xué yuán	100
+千禧游戏	qiān xǐ yóu xì	100
+桥本喵	qiáo běn miāo	100
+青井智加子	qīng jǐng zhì jiā zǐ	100
+青梅梅竹竹马	qīng méi méi zhú zhú mǎ	100
+全面战争	quán miàn zhàn zhēng	100
+全世界的雨	quán shì jiè de yǔ	100
+染君之色的调色盘	rǎn jūn zhī sè de tiáo sè pán	100
+热海娜娜	rè hǎi nà nà	100
+人格改变	rén gé gǎi biàn	100
+人间瓷话	rén jiān cí huà	100
+壬生中将	rén shēng zhōng jiāng	100
+忍者特搜正义之风	rěn zhě tè sōu zhèng yì zhī fēng	100
+容器	róng qì	100
+若夏日终将完结	ruò xià rì zhōng jiāng wán jié	100
+若月妮可	ruò yuè nī kě	100
+弱井豆豆子	ruò jǐng dòu dòu zǐ	100
+三角圆舞曲	sān jiǎo yuán wǔ qǔ	100
+骚混出	sāo hùn chū	100
+沙姆	shā mǔ	100
+山城拓也	shān chéng tuò yě	100
+珊比	shān bǐ	100
+伤口与绷带	shāng kǒu yǔ bēng dài	100
+伤停补时	shāng tíng bǔ shí	100
+少女的真心	shào nǚ de zhēn xīn	100
+少女怪兽	shào nǚ guài shòu	100
+神崎千寻	shén qí qiān xún	100
+神山裕纪	shén shān yù jì	100
+神无月	shén wú yuè	100
+圣兽神	shèng shòu shén	100
+尸体埋葬部	shī tǐ mái zàng bù	100
+失落品搜寻	shī luò pǐn sōu xún	100
+十字神名	shí zì shén míng	100
+石川沙奈	shí chuān shā nài	100
+实况棒球女郎三姐妹	shí kuàng bàng qiú nǚ láng sān jiě mèi	100
+蚀月吸血姬	shí yuè xī xuè jī	100
+矢端束	shǐ duān shù	100
+市加美	shì jiā měi	100
+试炼之地	shì liàn zhī dì	100
+狩猎英雄	shòu liè yīng xióng	100
+束花线	shù huā xiàn	100
+双双	shuāng shuāng	100
+双天恋姬	shuāng tiān liàn jī	100
+水岛小春	shuǐ dǎo xiǎo chūn	100
+水野佐知子	shuǐ yě zuǒ zhī zǐ	100
+睡觉卡比	shuì jiào kǎ bǐ	100
+司马冏	sī mǎ jiǒng	100
+司马玮	sī mǎ wěi	100
+司马乂	sī mǎ yì	100
+司马颖	sī mǎ yǐng	100
+司马颙	sī mǎ yóng	100
+司马越	sī mǎ yuè	100
+思金神	sī jīn shén	100
+斯比	sī bǐ	100
+苏恩曦	sū ēn xī	100
+素寄曲	sù jì qǔ	100
+宿那鬼	sù nà guǐ	100
+宿傩	sù nuó	100
+酸橙色信笺	suān chéng sè xìn jiān	100
+索芙	suǒ fú	100
+桃色的沙漏	táo sè de shā lòu	100
+藤倉玲那	téng cāng líng nà	100
+藤花	téng huā	100
+天火命铃彦姬	tiān huǒ mìng líng yàn jī	100
+天气变换系统	tiān qì biàn huàn xì tǒng	100
+天主教	tiān zhǔ jiào	100
+跳房子	tiào fáng zi	100
+铁腕美女神奇天使	tiě wàn měi nǚ shén qí tiān shǐ	100
+同样的心情	tóng yàng de xīn qíng	100
+童年的终结	tóng nián de zhōng jié	100
+托莉阿罗哈欧艾	tuō lì ā luó hā ōu ài	100
+汪应辰校拟	wāng yīng chén xiào nǐ	100
+王子系	wáng zǐ xì	100
+我不搬你们看什么	wǒ bù bān nǐ men kàn shén me	100
+我不会再回这个家了	wǒ bú huì zài huí zhè gè jiā le	100
+我们正驶向黎明	wǒ men zhèng shǐ xiàng lí míng	100
+我是缇宝的狗	wǒ shì tí bǎo de gǒu	100
+我喜欢的人所喜欢的人	wǒ xǐ huān de rén suǒ xǐ huān de rén	100
+乌栗	wū lì	100
+无敌战队完美连者	wú dí zhàn duì wán měi lián zhě	100
+无可替代的瞬间	wú kě tì dài de shùn jiān	100
+无限劣等星	wú xiàn liè děng xīng	100
+无限之王	wú xiàn zhī wáng	100
+夕星	xī xīng	100
+西西弗	xī xī fú	100
+西游战记	xī yóu zhàn jì	100
+希比特佐加	xī bǐ tè zuǒ jiā	100
+希波留特星人登场	xī bō liú tè xīng rén dēng chǎng	100
+希望的碎片	xī wàng de suì piàn	100
+夏一天	xià yī tiān	100
+现世爱丽丝	xiàn shì ài lì sī	100
+想要浪漫的话	xiǎng yào làng màn de huà	100
+向平凡的日常和幸运的日子	xiàng píng fán de rì cháng hé xìng yùn de rì zi	100
+小丑帽	xiǎo chǒu mào	100
+小鸡拱麻袋	xiǎo jī gǒng má dài	100
+小说角色	xiǎo shuō jué sè	100
+小镇水岸	xiǎo zhèn shuǐ àn	100
+协战师	xié zhàn shī	100
+邪恶女宇宙人芭拉	xié è nǚ yǔ zhòu rén bā lā	100
+邪恶之箱	xié è zhī xiāng	100
+邪妖克星幽子	xié yāo kè xīng yōu zǐ	100
+心动值	xīn dòng zhí	100
+新岛瑠菜	xīn dǎo liú cài	100
+新宿摆平录店长	xīn sù bǎi píng lù diàn zhǎng	100
+新宿着陆计划	xīn sù zhuó lù jì huà	100
+新型电子妖精	xīn xíng diàn zǐ yāo jīng	100
+星炎	xīng yán	100
+星夜铠	xīng yè kǎi	100
+兄妹恋	xiōng mèi liàn	100
+绣春刀	xiù chūn dāo	100
+须弥的思念	xū mí de sī niàn	100
+叙梦	xù mèng	100
+煦光	xù guāng	100
+荀灌	xún guàn	100
+亚利斯塔图铎	yà lì sī tǎ tú duó	100
+言语的翡翠	yán yǔ de fěi cuì	100
+妖精骑士菲莉亚	yāo jīng qí shì fēi lì yà	100
+妖精之传姬	yāo jīng zhī chuán jī	100
+叶月名残雪	yè yuè míng cán xuě	100
+夜的尽头	yè de jìn tóu	100
+一个天才魔术师的惬意生活	yí gè tiān cái mó shù shī de qiè yì shēng huó	100
+一群喵小剧场	yì qún miāo xiǎo jù chǎng	100
+伊阪恭明	yī bǎn gōng míng	100
+异形斗兽雷比亚	yì xíng dòu shòu léi bǐ yà	100
+益田西守歌	yì tián xī shǒu gē	100
+银九	yín jiǔ	100
+应知之事	yīng zhī zhī shì	100
+樱井优衣	yīng jǐng yōu yī	100
+影音双子	yǐng yīn shuāng zǐ	100
+永恒与星辰与日常	yǒng héng yǔ xīng chén yǔ rì cháng	100
+永火恶魔	yǒng huǒ è mó	100
+永远闪耀	yǒng yuǎn shǎn yào	100
+勇者凯撒	yǒng zhě kǎi sā	100
+幽灵遇见辣妹	yōu líng yù jiàn là mèi	100
+楢崎响	yóu qí xiǎng	100
+友希那	yǒu xī nà	100
+于毒	yú dú	100
+鱼板鲨	yú bǎn shā	100
+宇宙的不可思议	yǔ zhòu de bù kě sī yì	100
+宇宙一隅的我	yǔ zhòu yì yú de wǒ	100
+羽咋翼	yǔ zé yì	100
+雨后与你相伴	yǔ hòu yǔ nǐ xiāng bàn	100
+元叙事	yuán xù shì	100
+园崎弘	yuán qí hóng	100
+原将军的不死骑士	yuán jiāng jūn de bù sǐ qí shì	100
+月光假面	yuè guāng jiǎ miàn	100
+月香	yuè xiāng	100
+杂贺阳葵	zá hè yáng kuí	100
+再见了肱二头肌	zài jiàn le gōng èr tóu jī	100
+在接缝的另一端	zài jiē fèng de lìng yì duān	100
+在我还是小孩的时候	zài wǒ hái shì xiǎo hái de shí hòu	100
+早崎彩子	zǎo qí cǎi zǐ	100
+这么强	zhè me qiáng	100
+真城最高	zhēn chéng zuì gāo	100
+织贺善一	zhī hè shàn yī	100
+蜘蛛精	zhī zhū jīng	100
+直到大地变成一颗酸橙	zhí dào dà dì biàn chéng yì kē suān chéng	100
+至近距离札	zhì jìn jù lí zhá	100
+治愈队西游记	zhì yù duì xī yóu jì	100
+终音无章	zhōng yīn wú zhāng	100
+昼夜	zhòu yè	100
+竹内初奈	zhú nèi chū nài	100
+祝部浩也	zhù bù hào yě	100
+祝我生日快乐	zhù wǒ shēng rì kuài lè	100
+专属巧克力味觉	zhuān shǔ qiǎo kè lì wèi jué	100
+灼华桃花妖	zhuó huá táo huā yāo	100
+总觉得带点科幻风的小游戏	zǒng jué de dài diǎn kē huàn fēng de xiǎo yóu xì	100
+纵如此依旧穿透黑云	zòng rú cǐ yī jiù chuān tòu hēi yún	100
+诅咒之龙	zǔ zhòu zhī lóng	100
+祖寇	zǔ kòu	100
+最强咒族转生	zuì qiáng zhòu zú zhuǎn shēng	100
+自搭	zì dā	100
