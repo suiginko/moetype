@@ -12,117 +12,127 @@
 
 ### 下载
 
-- 在仓库的 Releases (发行版) 中下载 `*_moe.dict.yaml`
+- **直接下载**：在仓库的 [Releases (发行版)](../../releases) 中下载对应版本的 `*_moe.dict.yaml`
 
-如果您熟悉命令行操作，推荐使用 [Scoop](https://scoop.sh/) 进行下载和更新，请确保您已安装小狼毫作为前端。
+<details>
+<summary><b>使用 Scoop 下载与更新（点击展开）</b></summary>
 
-- 使用 Scoop (如果使用这一方法下载需使用方法 A 挂载)
+如果您熟悉命令行操作，推荐使用 [Scoop](https://scoop.sh/) 进行下载和更新（请确保已安装小狼毫作为前端）：
 
-  - 添加 bucket ([Github](https://github.com/abgox/abyss) 或 [Gitee](https://gitee.com/abgox/abyss))
+1. 添加 bucket ([Github](https://github.com/abgox/abyss) 或 [Gitee](https://gitee.com/abgox/abyss))：
 
-    ```shell
-    scoop bucket add abyss https://github.com/abgox/abyss
-    ```
+   - GitHub 源：
 
-    ```shell
-    scoop bucket add abyss https://gitee.com/abgox/abyss
-    ```
+     ```shell
+     scoop bucket add abyss https://github.com/abgox/abyss
+     ```
 
-  - 下载无声调版
+   - Gitee 镜像：
 
-    ```shell
-    scoop install abyss/suiginko.moetype.toneless
-    ```
+     ```shell
+     scoop bucket add abyss https://gitee.com/abgox/abyss
+     ```
 
-  - 下载有声调版
+2. 按需下载对应版本：
 
-    ```shell
-    scoop install abyss/suiginko.moetype.tone
-    ```
+   - **无声调版**
 
-  - 下载自然码辅助码版
+     ```shell
+     scoop install abyss/suiginko.moetype.toneless
+     ```
 
-    ```shell
-    scoop install abyss/suiginko.moetype.zrm
-    ```
+   - **有声调版**
 
-  - 下载墨奇辅助码版
+     ```shell
+     scoop install abyss/suiginko.moetype.tone
+     ```
 
-    ```shell
-    scoop install abyss/suiginko.moetype.moqi
-    ```
+   - **自然码辅助码版**
 
-  - 下载小鹤辅助码版
+     ```shell
+     scoop install abyss/suiginko.moetype.zrm
+     ```
 
-    ```shell
-    scoop install abyss/suiginko.moetype.flypy
-    ```
+   - **墨奇辅助码版**
 
-如果使用的辅助码不在发布列表中，也可以使用“一键生成辅助码版词库脚本.py”生成任意辅助码的自用版本
+     ```shell
+     scoop install abyss/suiginko.moetype.moqi
+     ```
 
-### 挂载 (仅以万象为例，其他方案请自行调整)
+   - **小鹤辅助码版**
 
-下载完成后，可以通过 `wanxiang.custom.yaml` 将自己的固定词库加入方案。
+     ```shell
+     scoop install abyss/suiginko.moetype.flypy
+     ```
 
-#### 方法 A：通过 Packs 扩展（推荐）
+> 💡 _注：如果使用 Scoop 下载，请使用下方的「方法 A」进行挂载。_
 
-这种方式不需要修改主词库文件，自己的词库可以单独维护，后续更新也更加方便。
+</details>
 
-但有个前置约束一定要知道：
+> 💡 如果使用的辅助码不在发布列表中，也可以运行仓库中的 `一键生成辅助码版词库脚本.py` 生成任意辅助码的自用版本。
 
-⚠️注意词库文件放在用户目录，不能折叠到 `dicts` 文件夹
-
-因此如果有各种异读需求考虑方法B吧！
-
-假设新词库文件命名为：`moqi_moetype.moqi`
-
-其词库表头中的 `name` 需要保持一致：
-
-词库表头示例
-
-##### rime dictionary
 ---
-name: moqi_moe
-version: "LTS"
-sort: by_weight
-...
 
-然后在 `wanxiang.custom.yaml` 中追加：
+### 挂载 (以万象方案为例)
 
-```
-patch:
-  translator/packs/+:
-    - moqi_moe # 填写词库名称，不需要包含 .dict.yaml
+下载完成后，可以通过 `wanxiang.custom.yaml` 将词库加入方案。
 
-```
+<details open>
+<summary><b>方法 A：通过 Packs 扩展（推荐）</b></summary>
 
-重新部署后，该词库即可作为主词库的扩展参与输入。
+这种方式不需要修改主词库文件，词库可以单独维护，后续更新更方便。
 
-#### 方法 B：自定义主词库
+> ⚠️ **前置注意**：词库文件需直接放在用户目录下，不能放在 `dicts` 子文件夹中。
 
-如果需要直接维护一套自己的完整主词库，可以复制根目录中的 `wanxiang.dict.yaml`，例如重命名为 `wanxianguser.dict.yaml`
+1. 确保新词库文件命名（例如 `moqi_moe.dict.yaml`）与内部表头的 `name` 保持一致：
 
-同时将词库内部的 `name` 等信息修改为对应名称。
+   ```yaml
+   # Rime dictionary
+   ---
+   name: moqi_moe
+   version: "LTS"
+   sort: by_weight
+   ...
+   ```
 
-随后通过 Patch 将相关词库调用统一指向新的主词库：
+2. 在 `wanxiang.custom.yaml` 中追加：
 
-```
-wanxiang.custom.yaml
-```
+   ```yaml
+   patch:
+     translator/packs/+:
+       - moqi_moe # 填写词库名称，无需带 .dict.yaml
+   ```
 
-```
-patch:
-  translator/dictionary: wanxianguser
-  user_dict_set/dictionary: wanxianguser
-  add_user_dict/dictionary: wanxianguser
-```
+3. 重新部署小狼毫即可生效。
 
-这种方式会直接替换方案原本调用的主词库，更适合已经了解万象词库结构和相关调用关系的用户。
+</details>
+
+<details>
+<summary><b>方法 B：自定义主词库（适合有深度定制需求的用户）</b></summary>
+
+如果需要直接维护一套自己的完整主词库：
+
+1. 复制根目录中的 `wanxiang.dict.yaml`，重命名为 `wanxianguser.dict.yaml`。
+2. 将词库内部的 `name` 等信息修改为对应名称（如 `wanxianguser`）。
+3. 在 `wanxiang.custom.yaml` 中通过 Patch 统一重定向：
+
+   ```yaml
+   patch:
+     translator/dictionary: wanxianguser
+     user_dict_set/dictionary: wanxianguser
+     add_user_dict/dictionary: wanxianguser
+   ```
+
+4. 重新部署小狼毫即可生效。
+
+</details>
+
+---
 
 ## 协助修订
 
-如果有修正和添加词条的建议，可以提出issues或discussions
+如果有修正和添加词条的建议，欢迎：
 
-或者填写 [在线表格](https://docs.qq.com/smartsheet/DQ29GemR6Z2JJeUd4?tab=t00i2h&viewId=v2JKhc)
-
-qq 群 781639677
+- 提交 [Issues](../../issues) 或 [Discussions](../../discussions)
+- 填写 [在线表格](https://docs.qq.com/smartsheet/DQ29GemR6Z2JJeUd4?tab=t00i2h&viewId=v2JKhc)
+- 加入 QQ 群：`781639677`
