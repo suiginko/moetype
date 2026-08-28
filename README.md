@@ -103,7 +103,7 @@
        - moqi_moe # 填写词库名称，无需带 .dict.yaml
    ```
 
-3. 重新部署小狼毫即可生效。
+3. 重新部署即可生效。
 
 </details>
 
@@ -123,7 +123,7 @@
      add_user_dict/dictionary: wanxianguser
    ```
 
-4. 重新部署小狼毫即可生效。
+4. 重新部署即可生效。
 
 </details>
 
