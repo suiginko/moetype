@@ -1573,7 +1573,7 @@ version: "0.3.8"
 阿骑	ā qí	100
 阿琪	ā qí	100
 阿琪莉塔	ā qí lì tǎ	100
-阿绮和刹那	ā qǐ hé shā nà	100
+阿绮和刹那	ā qǐ hé chà nà	100
 阿契美尼德	ā qì měi ní dé	100
 阿契美尼德波斯	ā qì měi ní dé bō sī	100
 阿契娜·蒂米特雷斯库	ā qì nà dì mǐ tè léi sī kù	100
@@ -1649,7 +1649,7 @@ version: "0.3.8"
 阿森纳	ā sēn nà	100
 阿僧祇豪志	ā sēng qí háo zhì	100
 阿沙	ā shā	100
-阿刹迈	ā shā mài	100
+阿刹迈	ā chà mài	100
 阿莎·鸦歌	ā shā yā gē	100
 阿莎蕊雅	ā shā ruǐ yǎ	100
 阿莎雅舒宾娜	ā shā yǎ shū bīn nà	100
@@ -3386,7 +3386,7 @@ version: "0.3.8"
 艾玛·米尔斯汀	ài mǎ mǐ ěr sī tīng	100
 艾玛·米勒	ài mǎ mǐ lè	100
 艾玛·薇蒂	ài mǎ wēi dì	100
-艾玛·维尔德	ài mǎ wéi ěr dé	5
+艾玛·维尔德	ài mǎ wéi ěr dé	105
 艾玛·伍兹	ài mǎ wǔ zī	100
 艾玛达	ài mǎ dá	100
 艾玛达共和国	ài mǎ dá gòng hé guó	100
@@ -4093,7 +4093,7 @@ version: "0.3.8"
 爱故	ài gù	100
 爱管侍	ài guǎn shì	100
 爱国者	ài guó zhě	100
-爱国者导弹	ài guó zhě dǎo dàn	5
+爱国者导弹	ài guó zhě dǎo dàn	105
 爱国者飞弹	ài guó zhě fēi dàn	100
 爱果者导弹	ài guǒ zhě dǎo dàn	1
 爱哈德	ài hā dé	100
@@ -4752,7 +4752,7 @@ version: "0.3.8"
 安部胡桃	ān bù hú táo	100
 安部理一郎	ān bù lǐ yì láng	100
 安部亮马	ān bù liàng mǎ	100
-安部刹那	ān bù shā nà	100
+安部刹那	ān bù chà nà	100
 安部真弘	ān bù zhēn hóng	100
 安部壮一	ān bù zhuàng yī	100
 安菜	ān cài	100
@@ -5461,8 +5461,8 @@ version: "0.3.8"
 安条麻衣	ān tiáo má yī	100
 安图恩	ān tú ēn	100
 安徒恩	ān tú ēn	100
-安徒生	ān tú shēng	50
-安徒生童话	ān tú shēng tóng huà	50
+安徒生	ān tú shēng	1050
+安徒生童话	ān tú shēng tóng huà	1050
 安徒生物语	ān tú shēng wù yǔ	100
 安屠生	ān tú shēng	1
 安屠生	ān tú shēng	100
@@ -5741,7 +5741,7 @@ version: "0.3.8"
 暗黑炽焰金刚	àn hēi chì yàn jīn gāng	100
 暗黑蠢动者	àn hēi chǔn dòng zhě	100
 暗黑大弟	àn hēi dà dì	100
-暗黑大帝	àn hēi dà dì	5
+暗黑大帝	àn hēi dà dì	105
 暗黑大圣	àn hēi dà shèng	100
 暗黑地带	àn hēi dì dài	100
 暗黑地魔	àn hēi dì mó	100
@@ -9500,11 +9500,11 @@ version: "0.3.8"
 百毒不侵	bǎi dú bù qīn	100
 百毒贴吧	bǎi dú tiē bā	100
 百毒王	bǎi dú wáng	100
-百度	bǎi dù	5
-百度百科	bǎi dù bǎi kē	5
+百度	bǎi dù	105
+百度百科	bǎi dù bǎi kē	105
 百度十大神兽	bǎi dù shí dà shén shòu	100
-百度体	bǎi dù tǐ	5
-百度贴吧	bǎi dù tiē bā	5
+百度体	bǎi dù tǐ	105
+百度贴吧	bǎi dù tiē bā	105
 百分百被空手接白刃	bǎi fēn bǎi bèi kōng shǒu jiē bái rèn	100
 百分百单恋	bǎi fēn bǎi dān liàn	100
 百分百合群日记	bǎi fēn bǎi hé qún rì jì	100
@@ -9529,7 +9529,6 @@ version: "0.3.8"
 百鬼蓝子	bǎi guǐ lán zǐ	100
 百鬼绫目	bǎi guǐ líng mù	100
 百鬼龙太	bǎi guǐ lóng tài	100
-百鬼罗刹	bǎi guǐ luó shā	100
 百鬼罗刹	bǎi guǐ luó chà	100
 百鬼惜	bǎi guǐ xī	100
 百鬼小当家	bǎi guǐ xiǎo dāng jiā	100
@@ -9987,7 +9986,7 @@ version: "0.3.8"
 拜年纪	bài nián jì	100
 拜年纪动画分会场	bài nián jì dòng huà fēn huì chǎng	100
 拜年纪燃曲串烧	bài nián jì rán qǔ chuàn shāo	100
-拜年祭	bài nián jì	50
+拜年祭	bài nián jì	1050
 拜年剑法	bài nián jiàn fǎ	100
 拜欧伦	bài ōu lún	100
 拜启时间胶囊	bài qǐ shí jiān jiāo náng	100
@@ -10177,9 +10176,8 @@ version: "0.3.8"
 搬家棋	bān jiā qí	100
 搬史	bān shǐ	100
 搬史大王	bān shǐ dà wáng	100
-搬屎	bān shǐ	5
-搬屎	bān shǐ	100
-搬屎大王	bān shǐ dà wáng	5
+搬屎	bān shǐ	200
+搬屎大王	bān shǐ dà wáng	200
 搬屎王	bān shǐ wáng	100
 搬运	bān yùn	100
 搬运工	bān yùn gōng	100
@@ -11213,7 +11211,7 @@ version: "0.3.8"
 豹纹锦蛇	bào wén jǐn shé	100
 豹纹陆龟	bào wén lù guī	100
 豹勇士	bào yǒng shì	100
-豹子头林冲	bào zi tóu lín chōng	5
+豹子头林冲	bào zi tóu lín chōng	105
 豹子头零充	bào zi tóu líng chōng	1
 鲍伯头	bào bó tóu	100
 鲍勃	bào bó	100
@@ -11783,7 +11781,7 @@ version: "0.3.8"
 北非规格	běi fēi guī gé	100
 北非前哨	běi fēi qián shào	100
 北风	běi fēng	100
-北风处理	běi fēng chù lǐ	100
+北风处理	běi fēng chǔ lǐ	100
 北风狼	běi fēng láng	100
 北风摇曳的向日葵	běi fēng yáo yè de xiàng rì kuí	100
 北风与太阳	běi fēng yǔ tài yáng	100
@@ -16524,7 +16522,7 @@ version: "0.3.8"
 不摇碧莲	bù yáo bì lián	100
 不要	bú yào	100
 不要爱上一个文人	bú yào ài shàng yī gè wén rén	100
-不要把我处理掉	bú yào bǎ wǒ chù lǐ diào	100
+不要把我处理掉	bú yào bǎ wǒ chǔ lǐ diào	100
 不要比较	bú yào bǐ jiào	100
 不要变作赤红	bú yào biàn zuò chì hóng	100
 不要不要不要不要不要	bú yào bú yào bú yào bú yào bú yào	100
@@ -17216,7 +17214,7 @@ version: "0.3.8"
 步战车	bù zhàn chē	100
 步骘	bù zhì	100
 步子迈大了，容易扯着蛋	bù zǐ mài dà le róng yì chě zhe dàn	100
-歩拾道	bù shí dào	5
+歩拾道	bù shí dào	105
 怖画	bù huà	100
 怖军	bù jūn	100
 怖哭菇	bù kū gū	100
@@ -19715,7 +19713,7 @@ version: "0.3.8"
 超能队长	chāo néng duì zhǎng	100
 超能花菜	chāo néng huā cài	100
 超能决策	chāo néng jué cè	100
-超能力	chāo néng lì	5
+超能力	chāo néng lì	105
 超能力部队	chāo néng lì bù duì	100
 超能力超能力	chāo néng lì chāo néng lì	100
 超能力大战	chāo néng lì dà zhàn	100
@@ -20829,7 +20827,7 @@ version: "0.3.8"
 晨雪	chén xuě	100
 晨樱夕露	chén yīng xī lù	100
 晨悠光	chén yōu guāng	100
-晨钟酱	chén zhōng jiàng	5
+晨钟酱	chén zhōng jiàng	105
 塵塵呪詛	chén chén zhòu zǔ	100
 衬衫	chèn shān	100
 衬衫的价格是九镑十五便士	chèn shān de jià gé shì jiǔ bàng shí wǔ biàn shì	100
@@ -21119,7 +21117,7 @@ version: "0.3.8"
 承包	chéng bāo	100
 承担责任	chéng dān zé rèn	100
 承君	chéng jūn	100
-承认不	chéng rèn bu	5
+承认不	chéng rèn bu	105
 承认部	chéng rèn bù	1
 承认欲求	chéng rèn yù qiú	100
 承太郎	chéng tài láng	100
@@ -22229,7 +22227,7 @@ version: "0.3.8"
 冲直人	chōng zhí rén	100
 冲撞钢盔	chōng zhuàng gāng kuī	100
 充电	chōng diàn	100
-充电宝标准	chōng diàn bǎo biāo zhǔn	5
+充电宝标准	chōng diàn bǎo biāo zhǔn	105
 充电表包准	chōng diàn biǎo bāo zhǔn	1
 充电器	chōng diàn qì	100
 充电千竹	chōng diàn qiān zhú	100
@@ -23008,7 +23006,7 @@ version: "0.3.8"
 处刑装	chù xíng zhuāng	100
 处刑装·紫苑	chù xíng zhuāng zǐ yuàn	100
 处月风	chù yuè fēng	100
-処救生	chù jiù shēng	5
+処救生	chù jiù shēng	105
 畜栏	chù lán	100
 畜生道	chù sheng dào	100
 畜生界	chù sheng jiè	100
@@ -27574,7 +27572,7 @@ version: "0.3.8"
 大义名分	dà yì míng fēn	100
 大艺术家	dà yì shù jiā	100
 大意了，没有闪	dà yì le méi yǒu shǎn	100
-大意失荆州	dà yì shī jīng zhōu	5
+大意失荆州	dà yì shī jīng zhōu	105
 大意食精粥	dà yì shí jīng zhōu	1
 大毅	dà yì	100
 大阴阳玉	dà yīn yáng yù	100
@@ -28407,7 +28405,7 @@ version: "0.3.8"
 单手捏杯子	dān shǒu niē bēi zi	100
 单首龙	dān shǒu lóng	100
 单挑	dān tiāo	100
-单廷圭	shàn tíng guī	100
+单廷圭	shàn tíng guī	105
 单廷珪	shàn tíng guī	100
 单推	dān tuī	100
 单推人	dān tuī rén	100
@@ -28821,7 +28819,7 @@ version: "0.3.8"
 刀鞘的孩子	dāo qiào de hái zǐ	100
 刀刃	dāo rèn	100
 刀锐奶化	dāo ruì nǎi huà	100
-刀刹	dāo shā	100
+刀刹	dāo chà	100
 刀使的巫女	dāo shǐ de wū nǚ	100
 刀使巫女	dāo shǐ wū nǚ	100
 刀使之巫女	dāo shǐ zhī wū nǚ	100
@@ -28939,7 +28937,7 @@ version: "0.3.8"
 岛崎亮	dǎo qí liàng	100
 岛崎绮罗罗	dǎo qí qǐ luó luó	100
 岛崎晴香	dǎo qí qíng xiāng	100
-岛崎刹那	dǎo qí shā nà	100
+岛崎刹那	dǎo qí chà nà	100
 岛崎藤村	dǎo qí téng cūn	100
 岛崎无印	dǎo qí wú yìn	100
 岛崎信长	dǎo qí xìn cháng	100
@@ -29073,7 +29071,7 @@ version: "0.3.8"
 倒流	dào liú	100
 倒霉	dǎo méi	100
 倒霉蛋	dǎo méi dàn	100
-倒霉死了	dǎo méi sǐ le	5
+倒霉死了	dǎo méi sǐ le	105
 倒霉死勒	dǎo méi sǐ lēi	100
 倒霉死勒	dǎo méi sǐ lè	100
 倒霉熊	dǎo méi xióng	100
@@ -31901,7 +31899,7 @@ version: "0.3.8"
 电光千鸟	diàn guāng qiān niǎo	100
 电光枪	diàn guāng qiāng	100
 电光人	diàn guāng rén	100
-电光刹歌	diàn guāng shā gē	100
+电光刹歌	diàn guāng chà gē	100
 电光闪灵	diàn guāng shǎn líng	100
 电光闪灵·伽马暴	diàn guāng shǎn líng gā mǎ bào	100
 电光闪灵·红精	diàn guāng shǎn líng hóng jīng	100
@@ -33568,7 +33566,7 @@ version: "0.3.8"
 东日向	dōng rì xiàng	100
 东飒	dōng sà	100
 东三雪碧	dōng sān xuě bì	100
-东刹那	dōng shā nà	100
+东刹那	dōng chà nà	100
 东山	dōng shān	100
 东山操	dōng shān cāo	100
 东山抚子	dōng shān fǔ zǐ	100
@@ -36247,7 +36245,7 @@ version: "0.3.8"
 恶鬼·图迦	è guǐ tú jiā	100
 恶鬼翠雀	è guǐ cuì què	100
 恶鬼蓟歌	è guǐ jì gē	100
-恶鬼罗刹	è guǐ luó shā	100
+恶鬼罗刹	è guǐ luó chà	100
 恶果魔王技术学院	è guǒ mó wáng jì shù xué yuàn	100
 恶果之地	è guǒ zhī dì	100
 恶化	è huà	100
@@ -36817,7 +36815,7 @@ version: "0.3.8"
 二代佐格	èr dài zuǒ gé	100
 二刀华抚	èr dāo huá fǔ	100
 二刀流	èr dāo liú	100
-二等兵甘	èr děng bīng gān	5
+二等兵甘	èr děng bīng gān	105
 二等丙肝	èr děng bǐng gān	1
 二等饼干	èr děng bǐng gàn	2
 二点	èr diǎn	100
@@ -39733,7 +39731,7 @@ version: "0.3.8"
 废旧船坞	fèi jiù chuán wù	100
 废旧交响曲	fèi jiù jiāo xiǎng qǔ	100
 废旧之脑区域	fèi jiù zhī nǎo qū yù	100
-废矿处理设施	fèi kuàng chù lǐ shè shī	100
+废矿处理设施	fèi kuàng chǔ lǐ shè shī	100
 废料箱	fèi liào xiāng	100
 废萌	fèi méng	100
 废萌女孩的日常	fèi méng nǚ hái de rì cháng	100
@@ -39937,8 +39935,8 @@ version: "0.3.8"
 分岛花音	fēn dǎo huā yīn	100
 分断之壁	fēn duàn zhī bì	100
 分分合合	fēn fēn hé hé	100
-分分合合的罗刹与骨骸	fēn fēn hé hé de luó shā yǔ gǔ hái	100
-分分合合的罗刹与骸骨	fēn fēn hé hé de luó shā yǔ hái gǔ	100
+分分合合的罗刹与骨骸	fēn fēn hé hé de luó chà yǔ gǔ hái	100
+分分合合的罗刹与骸骨	fēn fēn hé hé de luó chà yǔ hái gǔ	100
 分分合合的罗刹与骸骨	fēn fēn hé hé de luó chà yǔ hái gǔ	100
 分割商法	fēn gē shāng fǎ	100
 分隔晚霞	fēn gé wǎn xiá	100
@@ -40936,7 +40934,7 @@ version: "0.3.8"
 枫眠	fēng mián	100
 枫茗	fēng míng	100
 枫桥夜泊	fēng qiáo yè pō	100
-枫刹若舞	fēng shā ruò wǔ	100
+枫刹若舞	fēng chà ruò wǔ	100
 枫树	fēng shù	100
 枫树森林	fēng shù sēn lín	100
 枫糖牛奶	fēng táng niú nǎi	100
@@ -43411,7 +43409,7 @@ version: "0.3.8"
 改良型舰本式涡轮	gǎi liáng xíng jiàn běn shì wō lún	100
 改良型舰船常规涡轮	gǎi liáng xíng jiàn chuán cháng guī wō lún	100
 改名	gǎi míng	100
-改名不	gǎi míng bu	5
+改名不	gǎi míng bu	105
 改名部	gǎi míng bù	100
 改邪归正	gǎi xié guī zhèng	100
 改写未来	gǎi xiě wèi lái	100
@@ -45696,7 +45694,7 @@ version: "0.3.8"
 歌方月乃	gē fāng yuè nǎi	100
 歌斐木	gē fěi mù	100
 歌歌慢	gē gē màn	100
-歌合战	gē hé zhàn	5
+歌合战	gē hé zhàn	105
 歌合戦	gē hé zhàn	100
 歌赫娜	gē hè nà	100
 歌赫娜学院	gē hè nà xué yuàn	100
@@ -45837,7 +45835,7 @@ version: "0.3.8"
 格贝	gé bèi	100
 格波克	gé bō kè	100
 格伯朗	gé bó lǎng	100
-格布林百罗刹	gé bù lín bǎi luó shā	100
+格布林百罗刹	gé bù lín bǎi luó chà	100
 格布林的大饕兽	gé bù lín de dà tāo shòu	100
 格布林僵尸	gé bù lín jiāng shī	100
 格差社会	gé chà shè huì	100
@@ -46110,6 +46108,8 @@ version: "0.3.8"
 格连	gé lián	100
 格莲·克鲁兹	gé lián kè lǔ zī	100
 格列布里恩	gé liè bù lǐ ēn	100
+格列佛游记	gé liè fó yóu jì	100
+格列佛游记	gé liè fú yóu jì	105
 格列芙游记	gé liè fú yóu jì	100
 格列佛兄弟	gé liè fó xiōng dì	100
 格列高里·萨佛那罗拉	gé liè gāo lǐ sà fó nà luó lā	100
@@ -46572,7 +46572,7 @@ version: "0.3.8"
 根岸耀太朗	gēn àn yào tài lǎng	100
 根岸真子	gēn àn zhēn zǐ	100
 根本	gēn běn	100
-根本不是人	gēn běn bú shì rén	5
+根本不是人	gēn běn bú shì rén	105
 根本部诗人	gēn běn bù shī rén	100
 根本恭二	gēn běn gōng èr	100
 根本圭子	gēn běn guī zǐ	100
@@ -46637,7 +46637,7 @@ version: "0.3.8"
 跟随人群	gēn suí rén qún	100
 跟太阳系说再见	gēn tài yáng xì shuō zài jiàn	100
 跟我肘	gēn wǒ zhǒu	1
-跟我走	gēn wǒ zǒu	5
+跟我走	gēn wǒ zǒu	105
 跟踪	gēn zōng	100
 跟踪狂	gēn zōng kuáng	100
 跟踪狂酱与秘密的房间	gēn zōng kuáng jiàng yǔ mì mì de fáng jiān	100
@@ -47654,7 +47654,7 @@ version: "0.3.8"
 狗古智卑狗	gǒu gǔ zhì bēi gǒu	100
 狗豪	gǒu háo	100
 狗环	gǒu huán	100
-狗货	gǒu huò	5
+狗货	gǒu huò	105
 狗脚朕	gǒu jiǎo zhèn	100
 狗驹邑沙季	gǒu jū yì shā jì	100
 狗驹悠季	gǒu jū yōu jì	100
@@ -47842,7 +47842,7 @@ version: "0.3.8"
 孤高之人	gū gāo zhī rén	100
 孤海	gū hǎi	100
 孤坏牢	gū huài láo	100
-孤壞牢	gū huài láo	5
+孤壞牢	gū huài láo	105
 孤火	gū huǒ	100
 孤寂	gū jì	100
 孤寂沼地	gū jì zhǎo dì	100
@@ -48055,7 +48055,7 @@ version: "0.3.8"
 古宫阳子	gǔ gōng yáng zǐ	100
 古宫缘	gǔ gōng yuán	100
 古咕顾	gǔ gū gù	100
-古古怪界	gǔ gǔ guài jiè	50
+古古怪界	gǔ gǔ guài jiè	1050
 古古怪界大作战	gǔ gǔ guài jiè dà zuò zhàn	100
 古古怪界有古怪	gǔ gǔ guài jiè yǒu gǔ guài	8
 古谷	gǔ gǔ	100
@@ -50999,7 +50999,7 @@ version: "0.3.8"
 国王猪	guó wáng zhū	100
 国文课	guó wén kè	100
 国文课·本	guó wén kè běn	100
-国文课本	guó wén kè běn	50
+国文课本	guó wén kè běn	1050
 国行	guó xíng	100
 国彦	guó yàn	100
 国也	guó yě	100
@@ -51138,7 +51138,7 @@ version: "0.3.8"
 过竹乡	guò zhú xiāng	100
 过子	guò zǐ	100
 过足橙香	guò zú chéng xiāng	100
-過惰幻	guò duò huàn	5
+過惰幻	guò duò huàn	105
 過眠症	guò mián zhèng	100
 哈巴罗夫斯克	hā bā luó fū sī kè	100
 哈巴罗夫斯克	hǎ bā luó fū sī kè	100
@@ -52950,7 +52950,7 @@ version: "0.3.8"
 蒿梅雅	hāo méi yǎ	100
 毫无波兰	háo wú bō lán	100
 毫无干劲的尼特族前神童，当上了冒险者	háo wú gān jìn de ní tè zú qián shén tóng dāng shàng le mào xiǎn zhě	100
-毫无人性	háo wú rén xìng	5
+毫无人性	háo wú rén xìng	105
 毫无生活自理能力的	háo wú shēng huó zì lǐ néng lì de	100
 毫无违和感	háo wú wéi hé gǎn	100
 貉藻之虫惑魔	háo zǎo zhī chóng huò mó	100
@@ -53251,7 +53251,7 @@ version: "0.3.8"
 合法萝莉	hé fǎ luó lì	100
 合法兴奋剂	hé fǎ xīng fèn jì	100
 合法正太	hé fǎ zhèng tài	100
-合乎周礼	hé hū zhōu lǐ	5
+合乎周礼	hé hū zhōu lǐ	105
 合乎粥礼	hé hū zhōu lǐ	100
 合花楸	hé huā qiū	100
 合欢	hé huān	100
@@ -53360,7 +53360,7 @@ version: "0.3.8"
 何塞·巴登	hé sài bā dēng	100
 何塞·维纳斯·鬼瓦	hé sāi wéi nà sī guǐ wǎ	100
 何塞巴登	hé sài bā dēng	100
-何塞黎刹	hé sāi lí shā	100
+何塞黎刹	hé sāi lí chà	100
 何色之何	hé sè zhī hé	100
 何时到达那片天空	hé shí dào dá nà piàn tiān kōng	100
 何时何地简简单单	hé shí hé dì jiǎn jiǎn dān dān	100
@@ -53969,11 +53969,11 @@ version: "0.3.8"
 荷韵婷	hé yùn tíng	100
 荷兹	hé zī	100
 荷兹的奇幻漂流	hé zī de qí huàn piāo liú	100
-核吧	hé bā	5
+核吧	hé bā	105
 核爆霍元甲狐言	hé bào huò yuán jiǎ hú yán	100
 核爆零距离观察员	hé bào líng jù lí guān chá yuán	100
 核爆末世录	hé bào mò shì lù	100
-核爆默示录	hé bào mò shì lù	5
+核爆默示录	hé bào mò shì lù	105
 核爆神曲	hé bào shén qǔ	100
 核成	hé chéng	100
 核成兽的钢核	hé chéng shòu de gāng hé	100
@@ -55687,7 +55687,7 @@ version: "0.3.8"
 很快	hěn kuài	100
 很了不起的大象先生吧	hěn le bù qǐ de dà xiàng xiān shēng ba	100
 很慢	hěn màn	100
-很难不支持	hěn nán bù zhī chí	5
+很难不支持	hěn nán bù zhī chí	105
 很普通平凡的女孩子	hěn pǔ tōng píng fán de nǚ hái zǐ	100
 很傻很天真	hěn shǎ hěn tiān zhēn	100
 很少	hěn shǎo	100
@@ -55914,7 +55914,7 @@ version: "0.3.8"
 轰炸女孩	hōng zhà nǚ hái	100
 轰紫音	hōng zǐ yīn	100
 哄堂大孝	hōng táng dà xiào	1
-哄堂大笑	hōng táng dà xiào	5
+哄堂大笑	hōng táng dà xiào	105
 烘焙坊	hōng bèi fāng	100
 烘焙光影的少年	hōng bèi guāng yǐng de shào nián	100
 烘焙王	hōng bèi wáng	100
@@ -56532,7 +56532,7 @@ version: "0.3.8"
 虹猫蓝兔阿木星	hóng māo lán tù ā mù xīng	40
 虹猫蓝兔光明剑	hóng māo lán tù guāng míng jiàn	39
 虹猫蓝兔火凤凰	hóng māo lán tù huǒ fèng huáng	38
-虹猫蓝兔七侠传	hóng māo lán tù qī xiá zhuàn	50
+虹猫蓝兔七侠传	hóng māo lán tù qī xiá zhuàn	1050
 虹猫蓝兔七侠外传	hóng māo lán tù qī xiá wài zhuàn	30
 虹猫蓝兔跳跳外传	hóng māo lán tù tiào tiào wài zhuàn	29
 虹猫蓝兔勇者归来	hóng māo lán tù yǒng zhě guī lái	37
@@ -57510,7 +57510,7 @@ version: "0.3.8"
 护短	hù duǎn	100
 护盾采矿车	hù dùn cǎi kuàng chē	100
 护盾储能器	hù dùn chǔ néng qì	100
-护盾处理器	hù dùn chù lǐ qì	100
+护盾处理器	hù dùn chǔ lǐ qì	100
 护盾发生器	hù dùn fā shēng qì	100
 护法	hù fǎ	100
 护夫	hù fū	100
@@ -59057,7 +59057,7 @@ version: "0.3.8"
 幻境双生	huàn jìng shuāng shēng	100
 幻境中	huàn jìng zhōng	100
 幻镜胧妖	huàn jìng lóng yāo	100
-幻镜诺德琳	huàn jìng nuò dé lín	5
+幻镜诺德琳	huàn jìng nuò dé lín	105
 幻觉来了卧槽	huàn jué lái le wò cáo	100
 幻觉世界	huàn jué shì jiè	100
 幻空	huàn kōng	100
@@ -59119,7 +59119,7 @@ version: "0.3.8"
 幻兽王	huàn shòu wáng	100
 幻兽之角	huàn shòu zhī jiǎo	100
 幻书启示录	huàn shū qǐ shì lù	100
-幻书启世录	huàn shū qǐ shì lù	5
+幻书启世录	huàn shū qǐ shì lù	105
 幻属性木马	huàn shǔ xìng mù mǎ	100
 幻术	huàn shù	100
 幻术·此处非之术	huàn shù cǐ chù fēi zhī shù	100
@@ -59574,7 +59574,7 @@ version: "0.3.8"
 皇城凛	huáng chéng lǐn	100
 皇城琉璃	huáng chéng liú lí	100
 皇城暝	huáng chéng míng	100
-皇城刹那	huáng chéng shā nà	100
+皇城刹那	huáng chéng chà nà	100
 皇城一花	huáng chéng yì huā	100
 皇带鱼	huáng dài yú	100
 皇帝	huáng dì	100
@@ -59966,7 +59966,7 @@ version: "0.3.8"
 黄毛	huáng máo	100
 黄眉	huáng méi	100
 黄眉大亡	huáng méi dà wáng	100
-黄眉大王	huáng méi dà wáng	100
+黄眉大王	huáng méi dà wáng	200
 黄眉僧	huáng méi sēng	100
 黄梅戏	huáng méi xì	100
 黄明丽	huáng míng lì	100
@@ -60497,7 +60497,7 @@ version: "0.3.8"
 回避	huí bì	100
 回避暧昧	huí bì ài mèi	100
 回层浮	huí céng fú	100
-回層浮	huí céng fú	5
+回層浮	huí céng fú	105
 回城	huí chéng	100
 回城卷轴	huí chéng juàn zhóu	100
 回到家发现妻子变成了魔法少女	huí dào jiā fā xiàn qī zǐ biàn chéng le mó fǎ shào nǚ	100
@@ -64130,7 +64130,7 @@ version: "0.3.8"
 纪加莲	jì jiā lián	100
 纪卡莲	jì kǎ lián	100
 纪梨乃	jì lí nǎi	100
-纪灵	jì líng	100
+纪灵	jǐ líng	100
 纪录	jì lù	100
 纪录片刀剑散步	jì lù piàn dāo jiàn sàn bù	100
 纪录突破	jì lù tū pò	100
@@ -64149,12 +64149,12 @@ version: "0.3.8"
 纪史元光	jì shǐ yuán guāng	100
 纪事洞	jì shì dòng	100
 纪田正臣	jì tián zhèng chén	100
-纪玟	jì wén	100
-纪晓芙	jì xiǎo fú	100
+纪玟	jǐ wén	100
+纪晓芙	jǐ xiǎo fú	100
 纪行	jì xíng	100
 纪行的藏红花	jì xíng de zàng hóng huā	100
 纪雄	jì xióng	100
-纪艳芳	jì yàn fāng	100
+纪艳芳	jǐ yàn fāng	100
 纪尧姆·贝里尔	jì yáo mǔ bèi lǐ ěr	100
 纪尧姆·德·诺加雷	jì yáo mǔ dé nuò jiā léi	100
 纪伊	jì yī	100
@@ -64165,7 +64165,7 @@ version: "0.3.8"
 纪章	jì zhāng	100
 纪彰	jì zhāng	100
 纪昭	jì zhāo	100
-纪峥	jì zhēng	100
+纪峥	jǐ zhēng	100
 纪之	jì zhī	100
 纪枝	jì zhī	100
 纪子	jì zǐ	100
@@ -65036,7 +65036,7 @@ version: "0.3.8"
 迦克镇	jiā kè zhèn	100
 迦拉克隆	jiā lā kè lóng	100
 迦兰多	jiā lán duō	100
-迦蓝	jiā lán	5
+迦蓝	jiā lán	105
 迦乐季	jiā lè jì	100
 迦勒底	jiā lè dǐ	100
 迦勒底广播局	jiā lè dǐ guǎng bō jú	100
@@ -67290,7 +67290,7 @@ version: "0.3.8"
 降生自天龙座	jiàng shēng zì tiān lóng zuò	100
 降世神通	jiàng shì shén tōng	100
 降水概率百分之八十到百分之十	jiàng shuǐ gài lǜ bǎi fēn zhī bā shí dào bǎi fēn zhī shí	100
-降维打击	jiàng wéi dǎ jī	5
+降维打击	jiàng wéi dǎ jī	105
 降温	jiàng wēn	100
 降下千亿星屑的夜空	jiàng xià qiān yì xīng xiè de yè kōng	100
 降星町	jiàng xīng tīng	100
@@ -68601,7 +68601,7 @@ version: "0.3.8"
 姐色	jiě sè	100
 姐小路舞昼	jiě xiǎo lù wǔ zhòu	100
 姐注意报	jiě zhù yì bào	100
-解宝	jiě bǎo	100
+解宝	xiè bǎo	100
 解不开的魔法	jiě bù kāi de mó fǎ	100
 解不开的夏天	jiě bù kāi de xià tiān	100
 解除封印	jiě chú fēng yìn	100
@@ -68661,7 +68661,7 @@ version: "0.3.8"
 解药君	jiě yào jūn	100
 解臾	jiě yú	100
 解语	jiě yǔ	100
-解珍	jiě zhēn	100
+解珍	xiè zhēn	100
 介错	jiè cuò	100
 介旅初矢	jiè lǚ chū shǐ	100
 介末君	jiè mò jūn	100
@@ -68751,7 +68751,7 @@ version: "0.3.8"
 借物竞走	jiè wù jìng zǒu	100
 借物赛跑	jiè wù sài pǎo	100
 借物少女艾莉缇	jiè wù shào nǚ ài lì tí	100
-借一步说话	jiè yì bù shuō huà	50
+借一步说话	jiè yì bù shuō huà	1050
 借一部说话	jiè yì bù shuō huà	8
 借字	jiè zì	100
 堺万纱子	jiè wàn shā zǐ	100
@@ -69213,7 +69213,7 @@ version: "0.3.8"
 金凯子	jīn kǎi zi	100
 金铠蝎	jīn kǎi xiē	100
 金锴莹	jīn kǎi yíng	100
-金坷垃	jīn kē lā	5
+金坷垃	jīn kē lā	105
 金坷垃	jīn kē lā	100
 金坷垃是检验神曲的唯一标准	jīn kē lā shì jiǎn yàn shén qǔ de wéi yī biāo zhǔn	100
 金坷垃衍生歌曲	jīn kē lā yǎn shēng gē qǔ	100
@@ -69852,7 +69852,7 @@ version: "0.3.8"
 锦亚澄	jǐn yà chéng	100
 锦野麻弓	jǐn yě má gōng	100
 锦衣哥哥	jǐn yī gē ge	100
-锦衣卫	jǐn yī wèi	50
+锦衣卫	jǐn yī wèi	1050
 锦依卫	jǐn yī wèi	10
 锦玉子鼠	jǐn yù zǐ shǔ	100
 锦筝叹	jǐn zhēng tàn	100
@@ -70111,7 +70111,7 @@ version: "0.3.8"
 晋太元中	jìn tài yuán zhōng	100
 晋西北乱成了一锅粥	jìn xī běi luàn chéng le yì guō zhōu	100
 晋欣瑶	jìn xīn yáo	100
-晋秀山河	jìn xiù shān hé	100
+晋秀山河	jìn xiù shān hé	95
 晋爷	jìn yé	100
 晋一郎	jìn yī láng	100
 晋助	jìn zhù	100
@@ -70591,7 +70591,7 @@ version: "0.3.8"
 精神病	jīng shén bìng	100
 精神病大王花	jīng shén bìng dà wáng huā	100
 精神病房	jīng shén bìng fáng	100
-精神病患处理说明书	jīng shén bìng huàn chù lǐ shuō míng shū	100
+精神病患处理说明书	jīng shén bìng huàn chǔ lǐ shuō míng shū	100
 精神病拉面	jīng shén bìng lā miàn	100
 精神病态	jīng shén bìng tài	100
 精神病院	jīng shén bìng yuàn	100
@@ -71329,7 +71329,7 @@ version: "0.3.8"
 九八轻战乙	jiǔ bā qīng zhàn yǐ	100
 九八轻战乙型	jiǔ bā qīng zhàn yǐ xíng	100
 九八式水上侦察机	jiǔ bā shì shuǐ shàng zhēn chá jī	100
-九八五	jiǔ bā wǔ	5
+九八五	jiǔ bā wǔ	105
 九宝琉璃宗	jiǔ bǎo liú lí zōng	100
 九兵卫	jiǔ bīng wèi	100
 九财翼	jiǔ cái yì	100
@@ -71957,7 +71957,7 @@ version: "0.3.8"
 久远寺静香	jiǔ yuǎn sì jìng xiāng	100
 久远寺凛	jiǔ yuǎn sì lǐn	100
 久远寺日和	jiǔ yuǎn sì rì hé	100
-久远寺刹那	jiǔ yuǎn sì shā nà	100
+久远寺刹那	jiǔ yuǎn sì chà nà	100
 久远寺一叶	jiǔ yuǎn sì yī yè	100
 久远寺有珠	jiǔ yuǎn sì yǒu zhū	100
 久远寺右京	jiǔ yuǎn sì yòu jīng	100
@@ -73361,7 +73361,7 @@ version: "0.3.8"
 觉醒狼王	jué xǐng láng wáng	100
 觉醒莉莉丝	jué xǐng lì lì sī	100
 觉醒猎人	jué xǐng liè rén	100
-觉醒罗刹女	jué xǐng luó shā nǚ	100
+觉醒罗刹女	jué xǐng luó chà nǚ	100
 觉醒梅莉娅斯	jué xǐng méi lì yà sī	100
 觉醒摩纳娑	jué xǐng mó nà suō	100
 觉醒努阿达	jué xǐng nǔ ā dá	100
@@ -75043,7 +75043,7 @@ version: "0.3.8"
 开始的地方	kāi shǐ de dì fāng	100
 开始的歌呼	kāi shǐ de gē hū	100
 开始的欢迎	kāi shǐ de huān yíng	100
-开始的刹那	kāi shǐ de shā nà	100
+开始的刹那	kāi shǐ de chà nà	100
 开始的夏天	kāi shǐ de xià tiān	100
 开始的印记	kāi shǐ de yìn jì	100
 开始欢呼吧！	kāi shǐ huān hū ba	100
@@ -77969,10 +77969,10 @@ version: "0.3.8"
 恐惧爪	kǒng jù zhǎo	100
 恐惧爪	kǒng jù zhuǎ	100
 恐惧爪·赖希哈忒	kǒng jù zhǎo lài xī hā tè	100
-恐惧爪·怒刹帝利	kǒng jù zhǎo nù shā dì lì	100
+恐惧爪·怒刹帝利	kǒng jù zhǎo nù chà dì lì	100
 恐惧爪·特赖希哈忒	kǒng jù zhǎo tè lài xī hā tè	100
 恐惧爪赖希哈忒	kǒng jù zhǎo lài xī hā tè	100
-恐惧爪怒刹帝利	kǒng jù zhuǎ nù shā dì lì	100
+恐惧爪怒刹帝利	kǒng jù zhuǎ nù chà dì lì	100
 恐惧爪特赖希哈忒	kǒng jù zhǎo tè lài xī hā tè	100
 恐惧症	kǒng jù zhèng	100
 恐惧之灵	kǒng jù zhī líng	100
@@ -78867,7 +78867,7 @@ version: "0.3.8"
 快龙	kuài lóng	100
 快龙与小邮递员	kuài lóng yǔ xiǎo yóu dì yuán	100
 快马加编	kuài mǎ jiā biān	1
-快马加鞭	kuài mǎ jiā biān	5
+快马加鞭	kuài mǎ jiā biān	105
 快眠	kuài mián	100
 快跑起来吧	kuài pǎo qǐ lái ba	100
 快鳍鱼	kuài qí yú	100
@@ -79739,7 +79739,7 @@ version: "0.3.8"
 拉玛嘲讽富兰克林	lā mǎ cháo fěng fù lán kè lín	100
 拉玛尔	lā mǎ ěr	100
 拉玛尔·瓦尔特	lā mǎ ěr wǎ ěr tè	100
-拉玛刹	lā mǎ shā	100
+拉玛刹	lā mǎ chà	100
 拉迈松	lā mài sōng	100
 拉曼却领	lā màn què lǐng	100
 拉梅尔	lā méi ěr	100
@@ -80010,7 +80010,7 @@ version: "0.3.8"
 菈·普赛儿	lā pǔ sài ér	100
 菈奥芬	lā ào fēn	100
 菈比·粉红	lā bǐ fěn hóng	100
-菈比莉斯塔	lā bǐ lì sī tǎ	5
+菈比莉斯塔	lā bǐ lì sī tǎ	105
 菈彼丝	lā bǐ sī	100
 菈彼丝·蓝金莉汀	lā bǐ sī lán jīn lì tīng	100
 菈恩托露可	lā ēn tuō lù kě	100
@@ -81630,7 +81630,7 @@ version: "0.3.8"
 老船长	lǎo chuán zhǎng	100
 老崔	lǎo cuī	100
 老搭档糕点师	lǎo dā dàng gāo diǎn shī	100
-老大	lǎo dà	5
+老大	lǎo dà	105
 老大哥在看着你	lǎo dà gē zài kàn zhe nǐ	100
 老大哥在注视着你	lǎo dà gē zài zhù shì zhe nǐ	100
 老大哥正在看着你	lǎo dà gē zhèng zài kàn zhe nǐ	100
@@ -81869,7 +81869,7 @@ version: "0.3.8"
 乐观的心态	lè guān de xīn tài	100
 乐观谎者	lè guān huǎng zhě	100
 乐观主义	lè guān zhǔ yì	100
-乐和	yuè he	100
+乐和	yuè hé	100
 乐祭	yuè jì	100
 乐进	yuè jìn	100
 乐境虏逋	lè jìng lǔ bū	100
@@ -82825,7 +82825,7 @@ version: "0.3.8"
 泪冠哀歌·雷诺哈忒	lèi guān āi gē léi nuò hā tè	100
 泪冠哀歌·露露卡洛斯	lèi guān āi gē lù lù kǎ luò sī	100
 泪冠哀歌·梅露	lèi guān āi gē méi lù	100
-泪冠哀歌·怒刹帝利	lèi guān āi gē nù shā dì lì	100
+泪冠哀歌·怒刹帝利	lèi guān āi gē nù chà dì lì	100
 泪冠哀歌·琪多卡洛斯	lèi guān āi gē qí duō kǎ luò sī	100
 泪冠哀歌·赛莲	lèi guān āi gē sài lián	100
 泪冠哀歌哈弗妮丝	lèi guān āi gē hā fú nī sī	100
@@ -82833,7 +82833,7 @@ version: "0.3.8"
 泪冠哀歌雷诺哈忒	lèi guān āi gē léi nuò hā tè	100
 泪冠哀歌露露卡洛斯	lèi guān āi gē lù lù kǎ luò sī	100
 泪冠哀歌梅露	lèi guān āi gē méi lù	100
-泪冠哀歌怒刹帝利	lèi guān āi gē nù shā dì lì	100
+泪冠哀歌怒刹帝利	lèi guān āi gē nù chà dì lì	100
 泪冠哀歌琪多卡洛斯	lèi guān āi gē qí duō kǎ luò sī	100
 泪冠哀歌赛莲	lèi guān āi gē sài lián	100
 泪冠哀歌奏响的哀唱	lèi guān āi gē zòu xiǎng de āi chàng	100
@@ -83010,7 +83010,7 @@ version: "0.3.8"
 冷知识	lěng zhī shí	100
 冷周六	lěng zhōu liù	100
 哩味	lī wèi	100
-哩味儿	lī wèi ér	100
+哩味儿	lī wèi er	100
 狸白铃萌	lí bái líng méng	100
 狸花猫工作室	lí huā māo gōng zuò shì	100
 狸吉	lí jí	100
@@ -84787,7 +84787,7 @@ version: "0.3.8"
 例区	lì qū	100
 例如	lì rú	100
 例外	lì wài	100
-例外处理	lì wài chù lǐ	100
+例外处理	lì wài chǔ lǐ	100
 例行异常行为准则	lì xíng yì cháng xíng wéi zhǔn zé	100
 隶属鳞粉	lì shǔ lín fěn	100
 隶属阵营强化	lì shǔ zhèn yíng qiáng huà	100
@@ -85528,8 +85528,8 @@ version: "0.3.8"
 连弩战车	lián nǔ zhàn chē	100
 连平凡地老去也做不到	lián píng fán de lǎo qù yě zuò bú dào	100
 连七对	lián qī duì	100
-连起来又分开的罗刹与骨骸	lián qǐ lái yòu fēn kāi de luó shā yǔ gǔ hái	100
-连起来又分开罗刹与骨骸	lián qǐ lái yòu fēn kāi luó shā yǔ gǔ hái	100
+连起来又分开的罗刹与骨骸	lián qǐ lái yòu fēn kāi de luó chà yǔ gǔ hái	100
+连起来又分开罗刹与骨骸	lián qǐ lái yòu fēn kāi luó chà yǔ gǔ hái	100
 连拳	lián quán	100
 连山	lián shān	100
 连山守护	lián shān shǒu hù	100
@@ -89302,7 +89302,7 @@ version: "0.3.8"
 琉璃苣	liú lí jù	100
 琉璃郡主	liú lí jùn zhǔ	100
 琉璃龙	liú lí lóng	100
-琉璃龙龙	liú lí lóng lóng	5
+琉璃龙龙	liú lí lóng lóng	105
 琉璃梦	liú lí mèng	100
 琉璃色的地球	liú lí sè de dì qiú	100
 琉璃色金鱼与花菖蒲	liú lí sè jīn yú yǔ huā chāng pú	100
@@ -89830,7 +89830,7 @@ version: "0.3.8"
 六转舞藏	liù zhuǎn wǔ zàng	100
 六子	liù zǐ	100
 六子冲棋	liù zǐ chōng qí	100
-龙，可是帝王之征啊	lóng kě shì dì wáng zhī zhēng a	5
+龙，可是帝王之征啊	lóng kě shì dì wáng zhī zhēng a	105
 龙·何塞	lóng hé sāi	100
 龙·卡密兹	lóng kǎ mì zī	100
 龙·忍者	lóng rěn zhě	100
@@ -92355,7 +92355,7 @@ version: "0.3.8"
 罗密欧与仙杜瑞拉	luó mì ōu yǔ xiān dù ruì lā	47
 罗密欧与辛德瑞拉	luó mì ōu yǔ xīn dé ruì lā	48
 罗密欧与朱丽亚斯	luó mì ōu yǔ zhū lì yà sī	46
-罗密欧与朱丽叶	luó mì ōu yǔ zhū lì yè	50
+罗密欧与朱丽叶	luó mì ōu yǔ zhū lì yè	1050
 罗密欧与朱丽叶效应	luó mì ōu yǔ zhū lì yè xiào yìng	45
 罗蜜妲·加尔德	luó mì dá jiā ěr dé	100
 罗摩	luó mó	100
@@ -92450,12 +92450,12 @@ version: "0.3.8"
 罗森塔尔	luó sēn tǎ ěr	100
 罗森太差劲了	luó sēn tài chà jìn le	100
 罗森特尔	luó sēn tè ěr	100
-罗刹	luó shā	100
-罗刹帝国女孩	luó shā dì guó nǚ hái	100
+罗刹	luó chà	100
+罗刹帝国女孩	luó chà dì guó nǚ hái	100
 罗刹海市	luó chà hǎi shì	100
 罗刹牛队	luó chà niú duì	100
-罗刹女	luó shā nǚ	100
-罗刹丸	luó shā wán	100
+罗刹女	luó chà nǚ	100
+罗刹丸	luó chà wán	100
 罗刹一女	luó chà yì nǚ	100
 罗砂	luó shā	100
 罗莎	luó shā	100
@@ -93062,7 +93062,7 @@ version: "0.3.8"
 洛瑟菈	luò sè lā	100
 洛瑟玛	luò sè mǎ	100
 洛瑟玛·塞隆	luò sè mǎ sài lóng	100
-洛刹	luò shā	100
+洛刹	luò chà	100
 洛莎	luò shā	100
 洛莎·尤尔根	luò shā yóu ěr gēn	100
 洛山达	luò shān dá	100
@@ -93094,7 +93094,7 @@ version: "0.3.8"
 洛特	luò tè	100
 洛缇亚	luò tí yà	100
 洛天二	luò tiān èr	100
-洛天依	luò tiān yī	100
+洛天依	luò tiān yī	200
 洛天依的爱情故事	luò tiān yī de ài qíng gù shì	100
 洛天依的诞生	luò tiān yī de dàn shēng	100
 洛天依的货太纯辣	luò tiān yī de huò tài chún là	100
@@ -96595,7 +96595,7 @@ version: "0.3.8"
 没压感	méi yā gǎn	100
 没牙仔	méi yá zǎi	100
 没牙仔跳舞	méi yá zǎi tiào wǔ	100
-没一个是人	méi yí gè shì rén	5
+没一个是人	méi yí gè shì rén	105
 没用的回忆	méi yòng de huí yì	100
 没用的回忆增加了	méi yòng de huí yì zēng jiā le	100
 没有	méi yǒu	100
@@ -99396,7 +99396,7 @@ version: "0.3.8"
 迷路孩子的浪漫	mí lù hái zǐ de làng màn	100
 迷路人生	mí lù rén shēng	100
 迷路日	mí lù rì	100
-迷路日々	mí lù rì rì	5
+迷路日々	mí lù rì rì	105
 迷路日日	mí lù rì rì	100
 迷路小鹿	mí lù xiǎo lù	100
 迷乱	mí luàn	100
@@ -99404,7 +99404,7 @@ version: "0.3.8"
 迷乱蜘蛛	mí luàn zhī zhū	100
 迷茫的星星	mí máng de xīng xīng	100
 迷茫管家和懦弱的我	mí máng guǎn jiā hé nuò ruò de wǒ	100
-迷茫管家与懦弱的我	mí máng guǎn jiā yǔ nuò ruò de wǒ	5
+迷茫管家与懦弱的我	mí máng guǎn jiā yǔ nuò ruò de wǒ	105
 迷妹	mí mèi	100
 迷迷	mí mí	100
 迷迷可	mí mí kě	100
@@ -100285,7 +100285,7 @@ version: "0.3.8"
 觅光	mì guāng	100
 觅食	mì shí	100
 觅星	mì xīng	100
-觅血兵城	mì xuè bīng chéng	5
+觅血兵城	mì xuè bīng chéng	105
 宓妃	fú fēi	100
 宓莉莎·葛林卡	mì lì shā gé lín kǎ	100
 宓丝蒂·艾尔露特	mì sī dì ài ěr lù tè	100
@@ -101198,7 +101198,7 @@ version: "0.3.8"
 名无酱	míng wú jiàng	100
 名无声	míng wú shēng	100
 名无铁之介	míng wú tiě zhī jiè	100
-名無声	míng wú shēng	5
+名無声	míng wú shēng	105
 名物观世正宗刀	míng wù guān shì zhèng zōng dāo	100
 名乡千惠子	míng xiāng qiān huì zǐ	100
 名雪	míng xuě	100
@@ -101788,7 +101788,7 @@ version: "0.3.8"
 冥王结界波	míng wáng jié jiè bō	100
 冥王篇	míng wáng piān	100
 冥王破天	míng wáng pò tiān	100
-冥王刹那	míng wáng shā nà	100
+冥王刹那	míng wáng chà nà	100
 冥王神话	míng wáng shén huà	100
 冥王星	míng wáng xīng	100
 冥王星的雪	míng wáng xīng de xuě	100
@@ -102081,7 +102081,7 @@ version: "0.3.8"
 模之屋	mó zhī wū	100
 模组	mó zǔ	100
 摩艾岩下	mó ài yán xià	100
-摩的大飚客	mó de dà biāo kè	100
+摩的大飚客	mó dī dà biāo kè	100
 摩登	mó dēng	100
 摩登·卡拉	mó dēng kǎ lā	100
 摩登卡拉	mó dēng kǎ lā	100
@@ -102204,7 +102204,7 @@ version: "0.3.8"
 摩云	mó yún	100
 摩周慎太郎	mó zhōu shèn tài láng	100
 磨刀霍霍向爹娘	mó dāo huò huò xiàng diē niáng	1
-磨刀霍霍向猪羊	mó dāo huò huò xiàng zhū yáng	5
+磨刀霍霍向猪羊	mó dāo huò huò xiàng zhū yáng	105
 磨豆腐	mó dòu fǔ	100
 磨坊	mò fáng	100
 磨坊若叶	mó fāng ruò yè	100
@@ -103078,8 +103078,8 @@ version: "0.3.8"
 魔人执行官	mó rén zhí xíng guān	100
 魔乳秘剑帖	mó rǔ mì jiàn tiē	100
 魔扫把	mó sǎo bǎ	100
-魔刹罗	mó shā luó	100
-魔刹石伊弗	mó shā shí yī fú	100
+魔刹罗	mó chà luó	100
+魔刹石伊弗	mó chà shí yī fú	100
 魔少年	mó shào nián	100
 魔少年比提	mó shào nián bǐ tí	100
 魔少女讃歌	mó shào nǚ zàn gē	100
@@ -103777,7 +103777,7 @@ version: "0.3.8"
 莫名成为邪龙的五千岁草食龙	mò míng chéng wéi xié lóng de wǔ qiān suì cǎo shí lóng	100
 莫名的呕吐感	mò míng de ǒu tǔ gǎn	100
 莫名的眼镜	mò míng de yǎn jìng	100
-莫名其妙	mò míng qí miào	50
+莫名其妙	mò míng qí miào	1050
 莫铭	mò míng	100
 莫铭鑫	mò míng xīn	100
 莫莫	mò mò	100
@@ -104703,7 +104703,7 @@ version: "0.3.8"
 木之本樱	mù zhī běn yīng	10
 木之本真夜	mù zhī běn zhēn yè	100
 木之幡	mù zhī fān	100
-木之幡米拉	mù zhī fān mǐ lā	5
+木之幡米拉	mù zhī fān mǐ lā	105
 木之幡米菈	mù zhī fān mǐ lā	100
 木之幡米莎	mù zhī fān mǐ shā	100
 木之路一缕	mù zhī lù yī lǚ	100
@@ -105223,6 +105223,7 @@ version: "0.3.8"
 哪怕是望尘莫及的繁星	nǎ pà shì wàng chén mò jí de fán xīng	100
 哪怕是一朵花的祝福也好	nǎ pà shì yī duǒ huā de zhù fú yě hǎo	100
 哪怕我再次提笔	nǎ pà wǒ zài cì tí bǐ	100
+那试试	nà shì shì	200
 哪十十	nǎ shí shí	100
 哪位博士	nǎ wèi bó shì	100
 哪吒	nǎ zhā	100
@@ -106392,7 +106393,7 @@ version: "0.3.8"
 南宫那月	nán gōng nà yuè	100
 南宫三八	nán gōng sān bā	100
 南宫世家	nán gōng shì jiā	100
-南宫问天	nán gōng wèn tiān	50
+南宫问天	nán gōng wèn tiān	1050
 南宫问雅	nán gōng wèn yǎ	49
 南宫问雅，摸谁谁傻。	nán gōng wèn yǎ mō shuí shuí shǎ	10
 南宫五月	nán gōng wǔ yuè	100
@@ -107376,7 +107377,7 @@ version: "0.3.8"
 尼福尔	ní fú ěr	100
 尼高尔	ní gāo ěr	100
 尼高尔·阿玛菲	ní gāo ěr ā mǎ fēi	100
-尼哥	ní gē	50
+尼哥	ní gē	1050
 尼格尔·曼塞尔的世界锦标赛事	ní gé ěr màn sāi ěr de shì jiè jǐn biāo sài shì	100
 尼格摩尔	ní gé mó ěr	100
 尼根·古立德·路因	ní gēn gǔ lì dé lù yīn	100
@@ -107615,7 +107616,7 @@ version: "0.3.8"
 泥沼蟹王	ní zhǎo xiè wáng	100
 泥砖	ní zhuān	100
 泥奏凯	ní zòu kǎi	100
-籾冈里纱	rèn gāng lǐ shā	100
+籾冈里纱	ní gāng lǐ shā	100
 倪春佳	ní chūn jiā	100
 倪丹	ní dān	100
 倪康	ní kāng	100
@@ -107817,7 +107818,7 @@ version: "0.3.8"
 你对力量一无所知	nǐ duì lì liàng yī wú suǒ zhī	100
 你对群马一无所知	nǐ duì qún mǎ yī wú suǒ zhī	100
 你尔多隆吗	nǐ ěr duō lóng ma	100
-你耳朵聋吗	nǐ ěr duo lóng ma	5
+你耳朵聋吗	nǐ ěr duo lóng ma	105
 你改悔罢	nǐ gǎi huǐ bà	100
 你敢违抗拥有巴耶力的我吗	nǐ gǎn wéi kàng yōng yǒu bā yé lì de wǒ ma	100
 你敢砸我矿骡	nǐ gǎn zá wǒ kuàng luó	100
@@ -108437,7 +108438,7 @@ version: "0.3.8"
 念咎	niàn jiù	100
 念力	niàn lì	100
 念力宝剑	niàn lì bǎo jiàn	100
-念力处理器	niàn lì chù lǐ qì	100
+念力处理器	niàn lì chǔ lǐ qì	100
 念力触发器	niàn lì chù fā qì	100
 念力调整	niàn lì diào zhěng	100
 念力恶魔	niàn lì è mó	100
@@ -108556,7 +108557,7 @@ version: "0.3.8"
 鸟羽麻美	niǎo yǔ má měi	100
 鸟羽美波	niǎo yǔ měi bō	100
 鸟羽弥生	niǎo yǔ mí shēng	100
-鸟羽刹那	niǎo yǔ shā nà	100
+鸟羽刹那	niǎo yǔ chà nà	100
 鸟羽松子	niǎo yǔ sōng zǐ	100
 鸟羽优里香	niǎo yǔ yōu lǐ xiāng	100
 鸟羽云雀	niǎo yǔ yún què	100
@@ -109132,19 +109133,19 @@ version: "0.3.8"
 怒怒	nù nù	100
 怒怒怒抽卡	nù nù nù chōu kǎ	100
 怒气值	nù qì zhí	100
-怒刹帝利	nù shā dì lì	100
-怒刹帝利·独角兽	nù shā dì lì dú jiǎo shòu	100
-怒刹帝利·芬里尔	nù shā dì lì fēn lǐ ěr	100
-怒刹帝利·拉眦哈忒	nù shā dì lì lā zì hā tè	100
-怒刹帝利·食人魔	nù shā dì lì shí rén mó	100
-怒刹帝利·亚拉眦哈忒	nù shā dì lì yà lā zì hā tè	100
-怒刹帝利独角兽	nù shā dì lì dú jiǎo shòu	100
-怒刹帝利芬里尔	nù shā dì lì fēn li ěr	100
-怒刹帝利芬里尔	nù shā dì lì fēn lǐ ěr	100
-怒刹帝利拉眦哈忒	nù shā dì lì la zì hā tè	100
-怒刹帝利拉眦哈忒	nù shā dì lì lā zì hā tè	100
-怒刹帝利亚拉眦哈忒	nù shā dì lì yà la zì hā tè	100
-怒刹帝利亚拉眦哈忒	nù shā dì lì yà lā zì hā tè	100
+怒刹帝利	nù chà dì lì	100
+怒刹帝利·独角兽	nù chà dì lì dú jiǎo shòu	100
+怒刹帝利·芬里尔	nù chà dì lì fēn lǐ ěr	100
+怒刹帝利·拉眦哈忒	nù chà dì lì lā zì hā tè	100
+怒刹帝利·食人魔	nù chà dì lì shí rén mó	100
+怒刹帝利·亚拉眦哈忒	nù chà dì lì yà lā zì hā tè	100
+怒刹帝利独角兽	nù chà dì lì dú jiǎo shòu	100
+怒刹帝利芬里尔	nù chà dì lì fēn li ěr	100
+怒刹帝利芬里尔	nù chà dì lì fēn lǐ ěr	100
+怒刹帝利拉眦哈忒	nù chà dì lì la zì hā tè	100
+怒刹帝利拉眦哈忒	nù chà dì lì lā zì hā tè	100
+怒刹帝利亚拉眦哈忒	nù chà dì lì yà la zì hā tè	100
+怒刹帝利亚拉眦哈忒	nù chà dì lì yà lā zì hā tè	100
 怒蛇	nù shé	100
 怒首领蜂	nù shǒu lǐng fēng	100
 怒首领蜂大复活	nù shǒu lǐng fēng dà fù huó	100
@@ -109232,7 +109233,7 @@ version: "0.3.8"
 虐待叔叔	nüè dài shū shū	100
 虐狗	nüè gǒu	100
 虐猫区	nüè māo qū	1
-虐猫蛆	nüè māo qū	5
+虐猫蛆	nüè māo qū	105
 虐美人	nüè měi rén	100
 虐妹	nüè mèi	100
 虐泉	nüè quán	100
@@ -111631,8 +111632,8 @@ version: "0.3.8"
 劈斧螳螂	pī fǔ táng láng	100
 劈咔灯泡	pī kā dēng pào	100
 劈山掌	pī shān zhǎng	100
-劈腿	pī tuǐ	100
-劈腿之恋	pī tuǐ zhī liàn	100
+劈腿	pǐ tuǐ	100
+劈腿之恋	pǐ tuǐ zhī liàn	100
 劈斩司令	pī zhǎn sī lìng	100
 劈爪人	pī zhǎo rén	100
 劈爪人	pī zhuǎ rén	100
@@ -112659,7 +112660,7 @@ version: "0.3.8"
 凭依体	píng yī tǐ	100
 凭依之躯	píng yī zhī qū	100
 凭着一颗心	píng zhe yī kē xīn	100
-屏蔽盾处理器	píng bì dùn chù lǐ qì	100
+屏蔽盾处理器	píng bì dùn chǔ lǐ qì	100
 屏幕前的你不用憋气	píng mù qián de nǐ bú yòng biē qì	100
 屏幕前的你不用跟着学	píng mù qián de nǐ bú yòng gēn zhe xué	100
 屏幕前的你可以呼吸	píng mù qián de nǐ kě yǐ hū xī	100
@@ -114058,7 +114059,7 @@ version: "0.3.8"
 齐川唯	qí chuān wéi	100
 齐丹·尼加特	qí dān ní jiā tè	100
 齐尔爱莉·法格纳	qí ěr ài lì fǎ gé nà	100
-齐尔查克	qí ěr chá kè	5
+齐尔查克	qí ěr chá kè	105
 齐尔查克·蒂姆斯	qí ěr chá kè dì mǔ sī	100
 齐尔查克蒂姆斯	qí ěr chá kè dì mǔ sī	100
 齐尔法	qí ěr fǎ	100
@@ -114162,7 +114163,7 @@ version: "0.3.8"
 齐天	qí tiān	100
 齐天大圣	qí tiān dà shèng	100
 齐天大圣美猴王	qí tiān dà shèng měi hóu wáng	100
-齐天小圣	qí tiān xiǎo shèng	100
+齐天小圣	qí tiān xiǎo shèng	200
 齐天小剩	qí tiān xiǎo shèng	100
 齐天怡	qí tiān yí	100
 齐田博之	qí tián bó zhī	100
@@ -115909,7 +115910,7 @@ version: "0.3.8"
 前进信号	qián jìn xìn hào	100
 前口涉	qián kǒu shè	100
 前来忏悔	qián lái chàn huǐ	100
-前列腺刹车	qián liè xiàn shā chē	100
+前列腺刹车	qián liè xiàn shà chē	100
 前领主	qián lǐng zhǔ	100
 前路漫漫	qián lù màn màn	100
 前略	qián lüè	100
@@ -118021,7 +118022,7 @@ version: "0.3.8"
 青山充	qīng shān chōng	100
 青山翠	qīng shān cuì	100
 青山冈昌	qīng shān gāng chāng	100
-青山刚昌	qīng shān gāng chāng	5
+青山刚昌	qīng shān gāng chāng	105
 青山刚昌短篇集	qīng shān gāng chāng duǎn piān jí	100
 青山刚昌脸	qīng shān gāng chāng liǎn	100
 青山耕平	qīng shān gēng píng	100
@@ -118496,7 +118497,7 @@ version: "0.3.8"
 清内路清美	qīng nèi lù qīng měi	100
 清凝	qīng níng	100
 清浦	qīng pǔ	100
-清浦刹那	qīng pǔ shā nà	100
+清浦刹那	qīng pǔ chà nà	100
 清浦舞	qīng pǔ wǔ	100
 清浦夏实	qīng pǔ xià shí	100
 清崎纯	qīng qí chún	100
@@ -118643,7 +118644,7 @@ version: "0.3.8"
 鲭江太一	qīng jiāng tài yī	100
 鲭梦	qīng mèng	100
 鲭天	qīng tiān	100
-情报处理部	qíng bào chù lǐ bù	100
+情报处理部	qíng bào chǔ lǐ bù	100
 情报档案	qíng bào dàng àn	100
 情报贩子	qíng bào fàn zǐ	100
 情报酱	qíng bào jiàng	100
@@ -119653,7 +119654,7 @@ version: "0.3.8"
 取景器	qǔ jǐng qì	100
 取卷泰子	qǔ juǎn tài zǐ	100
 取名废	qǔ míng fèi	100
-取其精华，去其糟粕	qù qí jīng huá qǔ qí zāo pò	5
+取其精华，去其糟粕	qù qí jīng huá qǔ qí zāo pò	200
 取舍	qǔ shě	100
 取舍苏生	qǔ shě sū shēng	100
 取手·苏珊娜·丽香	qǔ shǒu sū shān nà lì xiāng	100
@@ -121741,7 +121742,7 @@ version: "0.3.8"
 日津树伶	rì jīn shù líng	100
 日进	rì jìn	100
 日经	rì jīng	100
-日经帖	rì jīng tiē	100
+日经帖	rì jīng tiě	200
 日经贴	rì jīng tiē	100
 日久生情	rì jiǔ shēng qíng	100
 日鞠	rì jū	100
@@ -123204,7 +123205,7 @@ version: "0.3.8"
 鰙久里留	ruò jiǔ lǐ liú	100
 鰙守大	ruò shǒu dà	100
 撒芭丝	sā bā sī	100
-撒贝宁	sǎ bèi níng	5
+撒贝宁	sǎ bèi níng	105
 撒贝宁杀乌鸡	sǎ bèi níng shā wū jī	100
 撒背您	sà bèi nín	1
 撒旦	sà dàn	100
@@ -123736,7 +123737,7 @@ version: "0.3.8"
 塞拉姆·丹巴	sāi lā mǔ dān bā	100
 塞拉欧格	sāi lā ōu gé	100
 塞拉斯	sài lā sī	100
-塞拉斯·柳田·利林费尔德	sài lā sī liǔ tián lì lín fèi ěr dé	5
+塞拉斯·柳田·利林费尔德	sài lā sī liǔ tián lì lín fèi ěr dé	105
 塞拉斯蒂亚公主	sài lā sī dì yà gōng zhǔ	100
 塞拉斯提亚	sài lā sī tí yà	100
 塞拉斯缇娅公主	sài lā sī tí yà gōng zhǔ	100
@@ -123880,7 +123881,7 @@ version: "0.3.8"
 塞莎特	sāi shā tè	100
 塞舌尔	sài shé ěr	100
 塞什卡	sài shí kǎ	100
-塞氏翻译法	sài shì fān yì fǎ	5
+塞氏翻译法	sài shì fān yì fǎ	105
 塞式翻译法	sài shì fān yì fǎ	100
 塞思	sài sī	100
 塞思	sāi sī	100
@@ -126613,34 +126614,34 @@ version: "0.3.8"
 纱枝	shā zhī	100
 纱织	shā zhī	100
 纱子	shā zǐ	100
-刹暗天	shā àn tiān	100
-刹帝利	shā dì lì	100
-刹那	shā nà	100
-刹那的爱	shā nà de ài	100
-刹那的风景	shā nà de fēng jǐng	100
-刹那的果实	shā nà de guǒ shí	100
-刹那的海啊	shā nà de hǎi a	100
-刹那的命运	shā nà de mìng yùn	100
-刹那的时代	shā nà de shí dài	100
-刹那的誓言	shā nà de shì yán	100
-刹那的漩涡	shā nà de xuán wō	100
-刹那的颜色	shā nà de yán sè	100
-刹那间的颜色	shā nà jiān de yán sè	100
-刹那空间	shā nà kōng jiān	100
-刹那泪雨	shā nà lèi yǔ	100
+刹暗天	chà àn tiān	100
+刹帝利	chà dì lì	100
+刹那	chà nà	100
+刹那的爱	chà nà de ài	100
+刹那的风景	chà nà de fēng jǐng	100
+刹那的果实	chà nà de guǒ shí	100
+刹那的海啊	chà nà de hǎi a	100
+刹那的命运	chà nà de mìng yùn	100
+刹那的时代	chà nà de shí dài	100
+刹那的誓言	chà nà de shì yán	100
+刹那的漩涡	chà nà de xuán wō	100
+刹那的颜色	chà nà de yán sè	100
+刹那间的颜色	chà nà jiān de yán sè	100
+刹那空间	chà nà kōng jiān	100
 刹那泪雨	chà nà lèi yǔ	100
-刹那旅程	shā nà lǚ chéng	100
-刹那骑悧斗	shā nà qí lì dòu	100
-刹那千年	shā nà qiān nián	100
+刹那泪雨	chà nà lèi yǔ	100
+刹那旅程	chà nà lǚ chéng	100
+刹那骑悧斗	chà nà qí lì dòu	100
+刹那千年	chà nà qiān nián	100
 刹那如梦人生	chà nà rú mèng rén shēng	100
-刹那月华	shā nà yuè huá	100
-刹那绽放的恋之花火	shā nà zhàn fàng de liàn zhī huā huǒ	100
-刹那之花	shā nà zhī huā	100
+刹那月华	chà nà yuè huá	100
+刹那绽放的恋之花火	chà nà zhàn fàng de liàn zhī huā huǒ	100
 刹那之花	chà nà zhī huā	100
-刹那之物主义	shā nà zhī wù zhǔ yì	100
-刹雅	shā yǎ	100
-刹亚	shā yà	100
-刹月华	shā yuè huá	100
+刹那之花	chà nà zhī huā	100
+刹那之物主义	chà nà zhī wù zhǔ yì	100
+刹雅	chà yǎ	100
+刹亚	chà yà	100
+刹月华	chà yuè huá	100
 砂尘幻想	shā chén huàn xiǎng	100
 砂城雅	shā chéng yǎ	100
 砂川	shā chuān	100
@@ -131711,7 +131712,7 @@ version: "0.3.8"
 生野狄杜斯	shēng yě dí dù sī	100
 生野洋司	shēng yě yáng sī	100
 生异形啊	shēng yì xíng a	100
-生意行啊	shēng yì xíng a	5
+生意行啊	shēng yì xíng a	105
 生于此刻	shēng yú cǐ kè	100
 生于此刻的光芒	shēng yú cǐ kè de guāng máng	100
 生于黑夜	shēng yú hēi yè	100
@@ -132392,7 +132393,7 @@ version: "0.3.8"
 盛夏的半人马座	shèng xià de bàn rén mǎ zuò	100
 盛夏的螃蟹	shèng xià de páng xiè	100
 盛夏的枪声	shèng xià de qiāng shēng	100
-盛夏的刹那	shèng xià de shā nà	100
+盛夏的刹那	shèng xià de chà nà	100
 盛夏的相片	shèng xià de xiàng piàn	100
 盛夏的照片	shèng xià de zhào piàn	100
 盛夏的钻石	shèng xià de zuān shí	100
@@ -132823,7 +132824,7 @@ version: "0.3.8"
 湿润之风	shī rùn zhī fēng	100
 湿身	shī shēn	100
 獅子志司	shī zǐ zhì sī	100
-詩超絆	shī chāo bàn	5
+詩超絆	shī chāo bàn	105
 詩謳兎揺蕩兎	shī ōu tù yáo dàng tù	100
 詩織	shī zhī	100
 十八岁的责任	shí bā suì de zé rèn	100
@@ -134055,7 +134056,7 @@ version: "0.3.8"
 实弥	shí mí	100
 实命	shí mìng	100
 实乃璃	shí nǎi lí	100
-实籾小樱	shí rèn xiǎo yīng	100
+实籾小樱	shí ní xiǎo yīng	100
 实琴	shí qín	100
 实生好子	shí shēng hǎo zǐ	100
 实时综合症	shí shí zōng hé zhèng	100
@@ -134657,7 +134658,7 @@ version: "0.3.8"
 矢泽虎太郎	shǐ zé hǔ tài láng	100
 矢泽火花	shǐ zé huǒ huā	100
 矢泽可可罗	shǐ zé kě kě luó	100
-矢泽可可萝	shǐ zé kě kě luó	5
+矢泽可可萝	shǐ zé kě kě luó	105
 矢泽可可亚	shǐ zé kě kě yà	100
 矢泽凛	shǐ zé lǐn	100
 矢泽妮歌	shǐ zé nī gē	100
@@ -135444,7 +135445,7 @@ version: "0.3.8"
 是偶像大师广播吗	shì ǒu xiàng dà shī guǎng bō ma	100
 是轻冰哒	shì qīng bīng dā	100
 是清	shì qīng	100
-是人我吃	shì rén wǒ chī	5
+是人我吃	shì rén wǒ chī	105
 是沙耶香酱啦	shì shā yé xiāng jiàng la	100
 是谁啊那个好孩子	shì shéi a nà gè hǎo hái zǐ	100
 是谁啊那个好孩子	shì shuí a nà gè hǎo hái zǐ	100
@@ -139646,7 +139647,7 @@ version: "0.3.8"
 四绿木星	sì lǜ mù xīng	100
 四马尾	sì mǎ wěi	100
 四萌	sì méng	100
-四糸乃	sì sī nǎi	50
+四糸乃	sì sī nǎi	1050
 四糸奈	sì sī nài	49
 四面楚歌	sì miàn chǔ gē	100
 四面疎歌	sì miàn shū gē	100
@@ -141297,7 +141298,7 @@ version: "0.3.8"
 孙翔	sūn xiáng	100
 孙小美	sūn xiǎo měi	100
 孙咲川	sūn xiào chuān	2
-孙笑川	sūn xiào chuān	5
+孙笑川	sūn xiào chuān	105
 孙笑宫川仁	sūn xiào gōng chuān rén	100
 孙新	sūn xīn	100
 孙休	sūn xiū	100
@@ -142266,7 +142267,7 @@ version: "0.3.8"
 太极熊猫	tài jí xióng māo	100
 太极芋泥	tài jí yù ní	100
 太纪	tài jì	100
-太监	tài jiān	100
+太监	tài jiàn	100
 太狡猾了吧	tài jiǎo huá le ba	100
 太结	tài jié	100
 太君腔	tài jūn qiāng	100
@@ -143713,7 +143714,7 @@ version: "0.3.8"
 陶宗旺	táo zōng wàng	100
 梼杌	táo wù	100
 淘宝体	táo bǎo tǐ	100
-淘宝网	táo bǎo wǎng	5
+淘宝网	táo bǎo wǎng	105
 淘金僵尸	táo jīn jiāng shī	100
 淘金狂僵尸	táo jīn kuáng jiāng shī	100
 淘金热	táo jīn rè	100
@@ -146156,7 +146157,7 @@ version: "0.3.8"
 天体的秩序	tiān tǐ de zhì xù	100
 天体观测	tiān tǐ guān cè	100
 天体図	tiān tǐ tú	100
-天体图	tiān tǐ tú	5
+天体图	tiān tǐ tú	105
 天体压制用最终兵器杰顿	tiān tǐ yā zhì yòng zuì zhōng bīng qì jié dùn	100
 天体英雄	tiān tǐ yīng xióng	100
 天体与生命体链接	tiān tǐ yǔ shēng mìng tǐ liàn jiē	100
@@ -146206,7 +146207,7 @@ version: "0.3.8"
 天团	tiān tuán	100
 天外大合唱	tiān wài dà hé chàng	100
 天外飞拳	tiān wài fēi quán	100
-天外飞仙	tiān wài fēi xiān	5
+天外飞仙	tiān wài fēi xiān	105
 天外飞鲜	tiān wài fēi xiān	1
 天外魔境	tiān wài mó jìng	100
 天外奇迹	tiān wài qí jì	100
@@ -148584,7 +148585,7 @@ version: "0.3.8"
 透子	tòu zǐ	100
 凸凹	tū āo	100
 凸凹动画	tū āo dòng huà	100
-凸变英雄	tū biàn yīng xióng	5
+凸变英雄	tū biàn yīng xióng	105
 凸村哲	tū cūn zhé	100
 凸点	tū diǎn	100
 凸守早苗	tū shǒu zǎo miáo	100
@@ -150311,7 +150312,7 @@ version: "0.3.8"
 完美主义者	wán měi zhǔ yì zhě	100
 完美自我安慰剂	wán měi zì wǒ ān wèi jì	100
 完螚	wán nài	100
-完全不是人	wán quán bú shì rén	5
+完全不是人	wán quán bú shì rén	105
 完全的世界	wán quán de shì jiè	100
 完全对身心无益处的歌	wán quán duì shēn xīn wú yì chù de gē	100
 完全对身心无益处之歌	wán quán duì shēn xīn wú yì chù zhī gē	100
@@ -151522,7 +151523,7 @@ version: "0.3.8"
 往耳中	wǎng ěr zhōng	100
 往来境	wǎng lái jìng	100
 往栏印	wǎng lán yìn	100
-往欄印	wǎng lán yìn	5
+往欄印	wǎng lán yìn	105
 往年消防员	wǎng nián xiāo fáng yuán	100
 往期版本	wǎng qī bǎn běn	100
 往期版本更新记录	wǎng qī bǎn běn gèng xīn jì lù	100
@@ -152661,8 +152662,8 @@ version: "0.3.8"
 维瑟米尔	wéi sè mǐ ěr	100
 维森	wéi sēn	100
 维森弥丝	wéi sēn mí sī	100
-维刹思	wéi shā sī	100
-维刹思·阿斯特劳德	wéi shā sī ā sī tè láo dé	100
+维刹思	wéi chà sī	100
+维刹思·阿斯特劳德	wéi chà sī ā sī tè láo dé	100
 维什戴尔	wéi shí dài ěr	100
 维生素医生	wéi shēng sù yī shēng	100
 维丝特吉尔	wéi sī tè jí ěr	100
@@ -152759,7 +152760,7 @@ version: "0.3.8"
 维兹米尔二世	wéi zī mǐ ěr èr shì	100
 维兹南	wéi zī nán	100
 伟岸者·亨利	wěi àn zhě hēng lì	100
-伟大，无须多言	wěi dà wú xū duō yán	5
+伟大，无须多言	wěi dà wú xū duō yán	105
 伟大的阿卡扎曼扎拉克	wěi dà de ā kǎ zhā màn zhā lā kè	100
 伟大的封印	wěi dà de fēng yìn	100
 伟大的古比	wěi dà de gǔ bǐ	100
@@ -152945,7 +152946,7 @@ version: "0.3.8"
 尾上亮	wěi shàng liàng	100
 尾上十郎	wěi shàng shí láng	100
 尾上士力架	wěi shàng shì lì jià	100
-尾上世莉架	wěi shàng shì lì jià	5
+尾上世莉架	wěi shàng shì lì jià	105
 尾上翔	wěi shàng xiáng	100
 尾神婆	wěi shén pó	100
 尾石达也	wěi shí dá yě	100
@@ -153377,7 +153378,7 @@ version: "0.3.8"
 未来添彩	wèi lái tiān cǎi	100
 未来図	wèi lái tú	100
 未来图	wèi lái tú	100
-未来图景	wèi lái tú jǐng	5
+未来图景	wèi lái tú jǐng	105
 未来王的预言	wèi lái wáng de yù yán	100
 未来为女孩而存在	wèi lái wèi nǚ hái ér cún zài	100
 未来为我俩而存在	wèi lái wèi wǒ liǎ ér cún zài	100
@@ -155151,7 +155152,7 @@ version: "0.3.8"
 我太受欢迎了该怎么办	wǒ tài shòu huān yíng le gāi zěn me bàn	100
 我太受欢迎了怎么办	wǒ tài shòu huān yíng le zěn me bàn	100
 我太太是高中生	wǒ tài tai shì gāo zhōng shēng	100
-我太想进步了	wǒ tài xiǎng jìn bù le	50
+我太想进步了	wǒ tài xiǎng jìn bù le	1050
 我太想进部了	wǒ tài xiǎng jìn bù le	8
 我堂铃子	wǒ táng líng zǐ	100
 我讨厌的你	wǒ tǎo yàn de nǐ	100
@@ -156166,7 +156167,7 @@ version: "0.3.8"
 无冬传奇四部曲	wú dōng chuán qí sì bù qū	100
 无冬之夜	wú dōng zhī yè	100
 无度数眼镜	wú dù shù yǎn jìng	100
-无端联想	wú duān lián xiǎng	5
+无端联想	wú duān lián xiǎng	105
 无端绪	wú duān xù	100
 无耳	wú ěr	100
 无二	wú èr	100
@@ -157049,7 +157050,7 @@ version: "0.3.8"
 鹀黑巫鸟	wú hēi wū niǎo	100
 鹀颊赤	wú jiá chì	100
 鹀颊告鸟	wú jiá gào niǎo	100
-無路矢	wú lù shǐ	5
+無路矢	wú lù shǐ	105
 無駄	wú tuó	100
 蜈蚣	wú gōng	100
 蜈蚣王	wú gōng wáng	100
@@ -158286,7 +158287,7 @@ version: "0.3.8"
 雾纵人	wù zòng rén	100
 寤寐	wù mèi	100
 鹜名	wù míng	100
-霧周途	wù zhōu tú	5
+霧周途	wù zhōu tú	105
 夕班	xī bān	100
 夕城美马	xī chéng měi mǎ	100
 夕城美朱	xī chéng měi zhū	100
@@ -163043,7 +163044,7 @@ version: "0.3.8"
 向雪花许愿	xiàng xuě huā xǔ yuàn	100
 向阳	xiàng yáng	100
 向阳处的回忆	xiàng yáng chù de huí yì	100
-向阳处的刹那	xiàng yáng chù de shā nà	100
+向阳处的刹那	xiàng yáng chù de chà nà	100
 向阳的蓝色阵雨	xiàng yáng de lán sè zhèn yǔ	100
 向阳的日子	xiàng yáng de rì zǐ	100
 向阳的日子	xiàng yáng de rì zi	100
@@ -163755,7 +163756,7 @@ version: "0.3.8"
 小恶魔缇莉与救世主！？	xiǎo è mó tí lì yǔ jiù shì zhǔ	100
 小恶魔天使	xiǎo è mó tiān shǐ	100
 小恶魔系	xiǎo è mó xì	100
-小恶魔学妹缠上了被女友劈腿的我	xiǎo è mó xué mèi chán shàng le bèi nǚ yǒu pī tuǐ de wǒ	100
+小恶魔学妹缠上了被女友劈腿的我	xiǎo è mó xué mèi chán shàng le bèi nǚ yǒu pǐ tuǐ de wǒ	100
 小恶魔之约	xiǎo è mó zhī yuē	100
 小而微弱的	xiǎo ér wēi ruò de	100
 小二黑大漠寻宝	xiǎo èr hēi dà mò xún bǎo	100
@@ -166066,7 +166067,7 @@ version: "0.3.8"
 笑傲昙天	xiào ào tán tiān	100
 笑兵卫	xiào bīng wèi	100
 笑出强大	xiào chū qiáng dà	100
-笑出强大	xiào chū qiáng dà	5
+笑出强大	xiào chū qiáng dà	105
 笑的练习	xiào de liàn xí	100
 笑的人会变得幸福	xiào de rén huì biàn dé xìng fú	100
 笑的时候拍拍手	xiào de shí hou pāi pāi shǒu	100
@@ -169578,8 +169579,8 @@ version: "0.3.8"
 匂坂郁纪	xiōng bǎn yù jì	100
 匂坂真由里	yún bǎn zhēn yóu lǐ	100
 匂坂真由里	xiōng bǎn zhēn yóu lǐ	100
-匂坂真由理	yún bǎn zhēn yóu lǐ	5
-匂坂真由理	xiōng bǎn zhēn yóu lǐ	5
+匂坂真由理	yún bǎn zhēn yóu lǐ	105
+匂坂真由理	xiōng bǎn zhēn yóu lǐ	105
 匂宫	yún gōng	100
 匂宫	xiōng gōng	100
 匂宫出梦	yún gōng chū mèng	100
@@ -170629,7 +170630,7 @@ version: "0.3.8"
 徐宇隆	xú yǔ lóng	100
 徐郁菲	xú yù fēi	100
 徐芸	xú yún	100
-徐长卿	xú zhǎng qīng	100
+徐长卿	xú cháng qīng	100
 徐智秀	xú zhì xiù	100
 徐子珊	xú zǐ shān	100
 许爱之岛	xǔ ài zhī dǎo	100
@@ -170982,7 +170983,7 @@ version: "0.3.8"
 悬田毬绘	xuán tián qiú huì	100
 悬崖	xuán yá	100
 悬崖勒妈	xuán yá lè mā	100
-悬崖勒马	xuán yá lè mǎ	5
+悬崖勒马	xuán yá lè mǎ	105
 悬崖上的城市	xuán yá shàng de chéng shì	100
 悬崖上的金鱼公主	xuán yá shàng de jīn yú gōng zhǔ	100
 悬崖上的金鱼姬	xuán yá shàng de jīn yú jī	100
@@ -172368,7 +172369,7 @@ version: "0.3.8"
 压路机最速传说	yā lù jī zuì sù chuán shuō	100
 压枪	yā qiāng	100
 压切长谷部	yā qiè cháng gǔ bù	100
-压刹	yā shā	100
+压刹	yā chà	100
 压缩机	yā suō jī	100
 压缩空气	yā suō kōng qì	100
 压缩毛巾	yā suō máo jīn	100
@@ -174302,7 +174303,7 @@ version: "0.3.8"
 燕贝	yàn bèi	100
 燕巢	yàn cháo	100
 燕丹	yān dān	100
-燕地离歌	yàn dì lí gē	100
+燕地离歌	yān dì lí gē	100
 燕返	yàn fǎn	100
 燕谷千春	yàn gǔ qiān chūn	100
 燕国地图	yān guó dì tú	100
@@ -174736,7 +174737,7 @@ version: "0.3.8"
 洋司	yáng sī	100
 洋太郎	yáng tài láng	100
 洋娃娃匕首	yáng wá wa bǐ shǒu	100
-洋务运动	yáng wù yùn dòng	5
+洋务运动	yáng wù yùn dòng	105
 洋一	yáng yī	100
 洋宜	yáng yí	100
 洋溢着笑容拍手称快	yáng yì zhe xiào róng pāi shǒu chēng kuài	100
@@ -175469,7 +175470,7 @@ version: "0.3.8"
 也就是说无论何时都不会放弃	yě jiù shì shuō wú lùn hé shí dōu bú huì fàng qì	100
 也是蛮拼的	yě shì mán pīn de	100
 也是醉了	yě shì zuì le	100
-也提示	yě tí shì	50
+也提示	yě tí shì	1050
 也文摄辉	yě wén shè huī	100
 也文西风	yě wén xī fēng	100
 也许	yě xǔ	100
@@ -176535,7 +176536,7 @@ version: "0.3.8"
 夜翼祭司	yè yì jì sī	100
 夜隐染	yè yǐn rǎn	100
 夜隐重霞	yè yǐn chóng xiá	100
-夜隠染	yè yǐn rǎn	5
+夜隠染	yè yǐn rǎn	105
 夜莺	yè yīng	100
 夜莺助手	yè yīng zhù shǒu	100
 夜樱	yè yīng	100
@@ -176856,7 +176857,7 @@ version: "0.3.8"
 一个人的两人世界	yī gè rén de liǎng rén shì jiè	100
 一个人的圣诞节	yī gè rén de shèng dàn jié	100
 一个人的庭院	yī gè rén de tíng yuàn	100
-一个人的武林	yí gè rén de wǔ lín	5
+一个人的武林	yí gè rén de wǔ lín	105
 一个人的夜里	yī gè rén de yè lǐ	100
 一个人的捉迷藏	yī gè rén de zhuō mí cáng	100
 一个人的捉迷藏	yí gè rén de zhuō mí cáng	100
@@ -176883,7 +176884,7 @@ version: "0.3.8"
 一鬼茜	yī guǐ qiàn	100
 一贵	yī guì	100
 一锅玄哥	yì guō xuán gē	100
-一国两制	yì guó liǎng zhì	5
+一国两制	yì guó liǎng zhì	105
 一国两智	yì guó liǎng zhì	1
 一果	yī guǒ	100
 一过性心情纪行文	yī guò xìng xīn qíng jì xíng wén	100
@@ -178966,7 +178967,7 @@ version: "0.3.8"
 衣装	yī zhuāng	100
 衣卒尔	yī zú ěr	100
 壱雫空	yī nǎ kōng	100
-壱雫空	yī xià kōng	5
+壱雫空	yī xià kōng	105
 医不了	yī bù liǎo	100
 医科大学	yī kē dà xué	100
 医疗兵	yī liáo bīng	100
@@ -179167,7 +179168,7 @@ version: "0.3.8"
 宜野座伸元	yí yě zuò shēn yuán	100
 咦我的头发呢	yí wǒ de tóu fà ne	100
 贻孝大方	yí xiào dà fāng	1
-贻笑大方	yí xiào dà fāng	5
+贻笑大方	yí xiào dà fāng	105
 姨父	yí fù	100
 姨妈	yí mā	100
 姨妈番	yí mā fān	100
@@ -180405,7 +180406,7 @@ version: "0.3.8"
 音葵	yīn kuí	100
 音来内丽	yīn lái nèi lì	100
 音濑小玉	yīn lài xiǎo yù	100
-音乐	yīn yuè	5
+音乐	yīn yuè	105
 音乐博物馆	yīn yuè bó wù guǎn	100
 音乐唱片	yīn yuè chàng piàn	100
 音乐超人	yīn yuè chāo rén	100
@@ -184563,7 +184564,7 @@ version: "0.3.8"
 友崔钧	yǒu cuī jūn	100
 友达	yǒu dá	100
 友方误射	yǒu fāng wù shè	100
-友伽利刹那	yǒu jiā lì shā nà	100
+友伽利刹那	yǒu jiā lì chà nà	100
 友冈新平	yǒu gāng xīn píng	100
 友贵	yǒu guì	100
 友哈巴赫	yǒu hā bā hè	100
@@ -184716,7 +184717,7 @@ version: "0.3.8"
 有稻几夜	yǒu dào jǐ yè	100
 有地将臣	yǒu dì jiàng chén	100
 有的人	yǒu de rén	100
-有点不是人	yǒu diǎn bú shì rén	5
+有点不是人	yǒu diǎn bú shì rén	105
 有点城市化了	yǒu diǎn chéng shì huà le	100
 有点可爱的女子高中拷问社	yǒu diǎn kě ài de nǚ zǐ gāo zhōng kǎo wèn shè	100
 有点冷淡的鲨鱼娘	yǒu diǎn lěng dàn de shā yú niáng	100
@@ -184728,7 +184729,7 @@ version: "0.3.8"
 有頂天人生	yǒu dǐng tiān rén shēng	100
 有动	yǒu dòng	100
 有毒	yǒu dú	100
-有端联想	yǒu duān lián xiǎng	5
+有端联想	yǒu duān lián xiǎng	105
 有耳朵的机器人的歌	yǒu ěr duo de jī qì rén de gē	100
 有耳朵的机器人之歌	yǒu ěr duo de jī qì rén zhī gē	100
 有匪	yǒu fěi	100
@@ -187039,7 +187040,7 @@ version: "0.3.8"
 聿怀	yù huái	100
 聿怀中学	yù huái zhōng xué	100
 聿日笺秋	yù rì jiān qiū	100
-聿日箋秋	yù rì jiān qiū	5
+聿日箋秋	yù rì jiān qiū	105
 聿修	yù xiū	100
 饫肥城	yù féi chéng	100
 郁辰𫍽	yù chén xuān	100
@@ -187776,7 +187777,7 @@ version: "0.3.8"
 元美琪	yuán měi qí	100
 元梦	yuán mèng	100
 元梦之星	yuán mèng zhī xīng	100
-元末明初	yuán mò míng chū	5
+元末明初	yuán mò míng chū	105
 元木罗拉	yuán mù luó lā	100
 元木玉子	yuán mù yù zi	100
 元木智冬	yuán mù zhì dōng	100
@@ -188357,7 +188358,7 @@ version: "0.3.8"
 圆丝蛛	yuán sī zhū	100
 圆堂志美子	yuán táng zhì měi zǐ	100
 圆藤藤吉郎	yuán téng téng jí láng	100
-圆头猫爹	yuán tóu māo diē	5
+圆头猫爹	yuán tóu māo diē	105
 圆头耄耋	yuán tóu mào dié	1
 圆头修理钳	yuán tóu xiū lǐ qián	100
 圆头鱼	yuán tóu yú	100
@@ -189911,7 +189912,7 @@ version: "0.3.8"
 越入禁区	yuè rù jìn qū	100
 越石丸	yuè shí wán	100
 越水骏	yuè shuǐ jùn	100
-越水七规	yuè shuǐ qī guī	58
+越水七规	yuè shuǐ qī guī	1058
 越水七槻	yuè shuǐ qī guī	70
 越水琴音	yuè shuǐ qín yīn	100
 越水索菲亚	yuè shuǐ suǒ fēi yà	100
@@ -191843,7 +191844,7 @@ version: "0.3.8"
 宅宅不乐水	zhái zhái bú lè shuǐ	100
 窄门	zhǎi mén	100
 窄巷	zhǎi xiàng	100
-债务处理人	zhài wù chù lǐ rén	100
+债务处理人	zhài wù chǔ lǐ rén	100
 砦蟹	zhài xiè	100
 沾边夹	zhān biān jiā	100
 沾泥的红树根	zhān ní de hóng shù gēn	100
@@ -192097,7 +192098,7 @@ version: "0.3.8"
 战斗赛车	zhàn dòu sài chē	100
 战斗少女高校	zhàn dòu shào nǚ gāo xiào	100
 战斗世界：克罗诺斯	zhàn dòu shì jiè kè luó nuò sī	100
-战斗爽	zhàn dòu shuǎng	5
+战斗爽	zhàn dòu shuǎng	105
 战斗瞬间移动	zhàn dòu shùn jiān yí dòng	100
 战斗瞬移	zhàn dòu shùn yí	100
 战斗司书	zhàn dòu sī shū	100
@@ -192578,7 +192579,7 @@ version: "0.3.8"
 张可	zhāng kě	100
 张口闭眼	zhāng kǒu bì yǎn	100
 张口闭眼男	zhāng kǒu bì yǎn nán	100
-张口就来	zhāng kǒu jiù lái	50
+张口就来	zhāng kǒu jiù lái	1050
 张坤	zhāng kūn	100
 张郎	zhāng láng	100
 张乐平	zhāng lè píng	100
@@ -193371,7 +193372,7 @@ version: "0.3.8"
 掌仙术·活	zhǎng xiān shù huó	100
 掌小仙	zhǎng xiǎo xiān	100
 掌心正铭	zhǎng xīn zhèng míng	100
-掌心正銘	zhǎng xīn zhèng míng	5
+掌心正銘	zhǎng xīn zhèng míng	105
 掌心之中的第二世界	zhǎng xīn zhī zhōng de dì èr shì jiè	100
 掌心中的命运	zhǎng xīn zhōng de mìng yùn	100
 掌中乐园	zhǎng zhōng lè yuán	100
@@ -193422,7 +193423,7 @@ version: "0.3.8"
 招募	zhāo mù	100
 招聘	zhāo pìn	100
 招生减章	zhāo shēng jiǎn zhāng	1
-招生简章	zhāo shēng jiǎn zhāng	5
+招生简章	zhāo shēng jiǎn zhāng	105
 招手的墓场	zhāo shǒu de mù chǎng	100
 昭畅	zhāo chàng	100
 昭次	zhāo cì	100
@@ -193486,8 +193487,8 @@ version: "0.3.8"
 找面具恶魔指点迷津	zhǎo miàn jù è mó zhǐ diǎn mí jīn	100
 找史	zhǎo shǐ	100
 找史大王	zhǎo shǐ dà wáng	100
-找屎	zhǎo shǐ	5
-找屎大王	zhǎo shǐ dà wáng	5
+找屎	zhǎo shǐ	105
+找屎大王	zhǎo shǐ dà wáng	105
 沼仓爱美	zhǎo cāng ài měi	100
 沼袋一男	zhǎo dài yī nán	100
 沼地的泥龙王	zhǎo dì de ní lóng wáng	100
@@ -194012,8 +194013,8 @@ version: "0.3.8"
 这破绽吃枣药丸	zhè pò zhàn chī zǎo yào wán	100
 这人不好惹	zhè rén bù hǎo rě	100
 这如果叫作爱情感觉会很恶心	zhè rú guǒ jiào zuò ài qíng gǎn jué huì hěn è xīn	100
-这傻逼疯	zhè shǎ bī fēng	5
-这傻逼疯了	zhè shǎ bī fēng le	5
+这傻逼疯	zhè shǎ bī fēng	105
+这傻逼疯了	zhè shǎ bī fēng le	105
 这谁顶得住啊	zhè shéi dǐng dé zhù a	100
 这谁顶得住啊	zhè shuí dǐng dé zhù a	100
 这时只要微笑就可以了	zhè shí zhǐ yào wēi xiào jiù kě yǐ le	100
@@ -194407,7 +194408,7 @@ version: "0.3.8"
 真岛雪风	zhēn dǎo xuě fēng	100
 真岛智也	zhēn dǎo zhì yě	100
 真地勇志	zhēn dì yǒng zhì	100
-真的不是人	zhēn de bú shì rén	5
+真的不是人	zhēn de bú shì rén	105
 真的很可怕的人偶故事	zhēn de hěn kě pà de rén ǒu gù shì	100
 真的要结婚吗	zhēn de yào jié hūn ma	100
 真的有一头牛	zhēn de yǒu yī tóu niú	100
@@ -194942,7 +194943,7 @@ version: "0.3.8"
 真由	zhēn yóu	100
 真由纪	zhēn yóu jì	100
 真由里	zhēn yóu lǐ	100
-真由理	zhēn yóu lǐ	5
+真由理	zhēn yóu lǐ	105
 真由罗	zhēn yóu luó	100
 真由美	zhēn yóu měi	100
 真由实	zhēn yóu shí	100
@@ -195759,7 +195760,7 @@ version: "0.3.8"
 知奈	zhī nài	100
 知你	zhī nǐ	100
 知念实也	zhī niàn shí yě	100
-知其然，而不知其所以然	zhī qí rán ér bù zhī qí suǒ yǐ rán	5
+知其然，而不知其所以然	zhī qí rán ér bù zhī qí suǒ yǐ rán	105
 知其燃，而不知其所以燃	zhī qí rán ér bù zhī qí suǒ yǐ rán	100
 知仁	zhī rén	100
 知沙	zhī shā	100
@@ -197816,7 +197817,7 @@ version: "0.3.8"
 中转通道	zhōng zhuǎn tōng dào	100
 忠！诚！	zhōng chéng	100
 忠邦	zhōng bāng	100
-忠诚	zhōng chéng	5
+忠诚	zhōng chéng	105
 忠诚	zhōng chéng	100
 忠诚的代价	zhōng chéng de dài jià	100
 忠诚之剑阿尔冯斯	zhōng chéng zhī jiàn ā ěr féng sī	100
@@ -198656,7 +198657,7 @@ version: "0.3.8"
 周常	zhōu cháng	100
 周常任务	zhōu cháng rèn wù	100
 周宸宇	zhōu chén yǔ	100
-周处	zhōu chù	100
+周处	zhōu chǔ	100
 周存	zhōu cún	100
 周颠	zhōu diān	100
 周董	zhōu dǒng	100
@@ -198693,7 +198694,7 @@ version: "0.3.8"
 周海鲜	zhōu hǎi xiān	100
 周浩嵩	zhōu hào sōng	100
 周红衣	zhōu hóng yī	1
-周鸿祎	zhōu hóng yī	5
+周鸿祎	zhōu hóng yī	105
 周慧鸣	zhōu huì míng	100
 周佶	zhōu jí	100
 周佳骏	zhōu jiā jùn	100
@@ -200496,7 +200497,7 @@ version: "0.3.8"
 椎名真优	zhuī míng zhēn yōu	100
 椎名真由	zhuī míng zhēn yóu	100
 椎名真由里	zhuī míng zhēn yóu lǐ	100
-椎名真由理	zhuī míng zhēn yóu lǐ	5
+椎名真由理	zhuī míng zhēn yóu lǐ	105
 椎名真昼	zhuī míng zhēn zhòu	100
 椎名枝里	zhuī míng zhī lǐ	100
 椎名治美	zhuī míng zhì měi	100
@@ -203311,7 +203312,7 @@ version: "0.3.8"
 座堂山城堡	zuò táng shān chéng bǎo	100
 座天使兽	zuò tiān shǐ shòu	100
 座童花	zuò tóng huā	100
-座药	zuò yào	50
+座药	zuò yào	1050
 做不到	zuò bú dào	100
 做不了自己	zuò bù liǎo zì jǐ	100
 做春梦	zuò chūn mèng	100
@@ -204951,3 +204952,19 @@ version: "0.3.8"
 声真似	shēng zhēn sì	100
 谜丸	mí wán	100
 须贺蕾叶	xū hè lěi xié	100
+黑心煞掌	hēi xīn shà zhǎng	100
+航时机	háng shí jī	100
+天和山雨雪	tiān hé shān yǔ xuě	100
+换蛋期	huàn dàn qī	100
+许多葵	xǔ duō kuí	100
+玩网	wán wǎng	100
+用别𪨊，𪨊别用	yòng bié sóng sóng bié yòng	100
+封侯非我意，但愿动刀兵	fēng hóu fēi wǒ yì dàn yuàn dòng dāo bīng	100
+墙裂建议	qiáng liè jiàn yì	100
+墙裂推荐	qiáng liè tuī jiàn	100
+瓦纳海姆	wǎ nà hǎi mǔ	100
+陆配	lù pèi	100
+台配	tái pèi	100
+想进部	xiǎng jìn bù	100
+惊面兔	jīng miàn tù	100
+屁帘	pì lián	100
